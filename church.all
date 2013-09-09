@@ -1,0 +1,38 @@
+* CDAY data
+* Copyright (C) 2003 by Andrew Ziem.  All rights reserved.
+* http://cday.sourceforge.net
+*
+*
+* LICENSE AND DISTRIBUTION
+* See the enclosed file, COPYING, for the GNU Free Documentation License.
+*
+*
+* MONTHS
+*     01 Jan      04 Apr    07 July      10 Oct
+*     02 Feb      05 May    08 August    11 Nov
+*     03 Mar      06 Jun    09 Sept      12 Dec
+
+
+*mmddyyyy Moveable feasts (not based on MM/DD)
+*-------- ------------------------------------------------------------
+MEASTER   Easter, He is risen!
+MASHWEDN  Ash Wednesday, first day of Lent
+MLENT     Lent
+MGOODFRI  Good Friday
+MPALMSUN  Palm Sunday
+
+
+*mmddyyyy Holy days / Holidays
+*-------- ------------------------------------------------------------
+H0515     Saint Sophia's day (Catholic)
+H0402     Saint Francis's day (Catholic)
+H1004     Saint Francis's day (Catholic)
+H1130     Saint Andrew's day (Catholic)
+H1224     Saint Eva's day (Catholic)
+
+
+*mmddyyyy Events
+*-------- ------------------------------------------------------------
+S04081546 Council of Trent adopts Jerome's Latin Vulgate.
+S04101816 Afican Methodist Episcopal Church organized.
+S04111506 The foundation stone of St. Peter's Basilica laid.

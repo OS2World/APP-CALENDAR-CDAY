@@ -1,0 +1,2945 @@
+* CDAY data
+* Copyright (C) 2003 by Andrew Ziem.  All rights reserved.
+* http://cday.sourceforge.net
+*
+*
+* LICENSE AND DISTRIBUTION
+* See the enclosed file, COPYING, for the GNU Free Documentation License.
+*
+*
+* MONTHS
+*     01 Jan      04 Apr    07 July      10 Oct
+*     02 Feb      05 May    08 August    11 Nov
+*     03 Mar      06 Jun    09 Sept      12 Dec
+
+
+*mmddyyyy Birthdays
+*-------------------------------------------------------------------------
+B01011735 Paul Revere
+B01011752 Betsy Ross
+B01011895 J. Edgar Hoover
+B01011900 Xavier Cugat
+B01011909 Barry Goldwater
+B01011919 J.D. Salinger
+B01011943 Don Novello
+B01021904 Sally Rand
+B01021920 Isaac Asimov
+B01021936 Roger Miller
+B01021939 Jim Bakker
+B01021961 Gabrielle Carteris
+B01021966 Tia Carrere
+B01021968 Cuba Gooding, Jr.
+B01021969 Christy Turlington
+B01031897 Marion Davies
+B01031898 Zazu Pitts
+B01031905 Ray Milland
+B01031909 Victor Borge
+B01031918 Maxene Andrews
+B01031919 Jesse White
+B01031932 Dabney Coleman
+B01031939 Bobby Hull
+B01031945 Stephen Stills
+B01031950 Victoria Principal
+B01031956 Mel Gibson
+B01031960 Joan Chen
+B01031969 Michael Schumacher
+B01031975 Danica McKeller
+B01041838 Charles "Tom Thumb" Stratton
+B01041905 Sterling Holloway
+B01041914 Jane Wyman
+B01041935 Floyd Patterson
+B01041937 Dyan Cannon
+B01041958 Matt Frewer
+B01041960 Michael Stipe
+B01051876 Konrad Adenauer
+B01051914 George Reeves
+B01051928 Walter Mondale
+B01051931 Alvin Ailey
+B01051931 Robert Duvall
+B01051938 Juan Carlos I, King of Spain
+B01051946 Diane Keaton
+B01051953 Pamela Sue Martin
+B01051969 Marilyn Manson, not a beautiful person
+B01061880 Tom Mix
+B01061883 Kahlil Gibran
+B01061912 Danny Thomas
+B01061913 Loretta Young
+B01061920 Sun Myung Moon
+B01061929 Vic Tayback
+B01061944 Bonnie Franklin
+B01061955 Rowan Atkinson
+B01061957 Nancy Lopez
+B01061971 Joey Lauren Adams
+B01071911 Butterfly McQueen
+B01071912 Charles Addams
+B01071922 Jean-Pierre Rampal
+B01071928 William Peter Blatty
+B01071948 Kenny Loggins
+B01071957 Katie Couric
+B01071964 Nicolas Cage, actor
+B01071971 David Yost
+B01081912 Jose Ferrer
+B01081923 Larry Storch
+B01081924 Ron Moody
+B01081926 Soupy Sales
+B01081933 Charles Osgood
+B01081937 Shirley Bassey
+B01081939 Yvette Mimieux
+B01081942 Stephen Hawking
+B01081969 Ami Dolenz
+B01091904 George Balanchine
+B01091935 Bob Denver
+B01091941 Joan Baez
+B01091941 Susannah York
+B01091944 Jimmy Page
+B01091951 Crystal Gayle
+B01091978 A.J. McLean
+B01101904 Ray Bolger
+B01101908 Paul Henreid
+B01101927 Gisele MacKenzie
+B01101927 Johnnie Ray
+B01101939 Sal Mineo
+B01101945 Rod Stewart
+B01101949 George Foreman
+B01101953 Pat Benatar
+B01111755 Alexander Hamilton
+B01111905 Ellery Queen
+B01111926 Grant Tinker
+B01111930 Rod Taylor
+B01111952 Ben Crenshaw
+B01121876 Jack London
+B01121926 Ray Price
+B01121930 Glenn Yarborough
+B01121944 Joe Frazier
+B01121951 Rush Limbaugh
+B01121954 Howard Stern
+B01121955 Kirstie Alley
+B01121975 Melanie Jayne Chisholm
+B01121988 Andy Lawrence
+B01131884 Sophie Tucker
+B01131919 Robert Stack
+B01131925 Gwen Verdon
+B01131931 Charles Nelson Reilly
+B01131943 Richard Moll
+B01131961 Julia Louis-Dreyfus
+B01141875 Albert Schweitzer
+B01141906 William Bendix
+B01141920 Andy Rooney
+B01141938 Jack Jones
+B01141941 Faye Dunaway
+B01141969 Jason Bateman
+B01151906 Aristotle Onassis
+B01151909 Gene Krupa
+B01151913 Lloyd Bridges
+B01151929 Dr. Martin Luther King, Jr.
+B01151937 Margaret O'Brien
+B01151951 Charo
+B01161853 Andre Michelin
+B01161909 Ethel Merman
+B01161911 Dizzy Dean
+B01161935 A.J. Foyt
+B01161944 Ronnie Milsap
+B01161948 John Carpenter
+B01161950 Debbie Allen
+B01161959 Sade
+B01161974 Kate Moss
+B01171820 Anne Bronte
+B01171884 Mack Sennett
+B01171899 Al Capone
+B01171922 Betty White
+B01171927 Eartha Kitt
+B01171928 Vidal Sassoon
+B01171931 James Earl Jones
+B01171934 Shari Lewis
+B01171949 Andy Kaufman
+B01171962 Jim Carrey
+B01181782 Daniel Webster
+B01181882 A.A. Milne
+B01181892 Oliver Hardy
+B01181904 Cary Grant
+B01181913 Danny Kaye
+B01181941 Bobby Goldsboro
+B01181955 Kevin Costner
+B01191807 Robert E. Lee
+B01191809 Edgar Allan Poe
+B01191839 Paul Cezanne
+B01191922 Guy Madison
+B01191923 Jean Stapleton
+B01191931 Tippi Hedren
+B01191939 Phil Everly
+B01191942 Michael Crawford
+B01191943 Janis Joplin
+B01191944 Shelley Fabares
+B01191946 Dolly Parton
+B01191953 Desi Arnaz, Jr.
+B01191969 Junior Seau
+B01191982 Jodie Sweetin
+B01201896 George Burns
+B01201920 DeForest Kelley
+B01201920 Federico Fellini
+B01201926 Patricia Neal
+B01201930 Edwin "Buzz" Aldrin
+B01201934 Arte Johnson
+B01201937 Dorothy Provine
+B01201946 David Lynch
+B01201971 Gary Barlow
+B01211824 Thomas "Stonewall" Jackson
+B01211922 Paul Scofield
+B01211924 Telly Savalas
+B01211925 Benny Hill
+B01211939 Wolfman Jack
+B01211940 Jack Nicklaus
+B01211941 Placido Domingo
+B01211942 Mac Davis
+B01211947 Jill Eikenberry
+B01211956 Robby Benson
+B01211957 Geena Davis
+B01211963 Hakeem Olajuwon
+B01211976 Emma Lee Bunton
+B01221561 Sir Francis Bacon
+B01221875 D.W. Griffith
+B01221909 Ann Sothern
+B01221932 Piper Laurie
+B01221934 Bill Bixby
+B01221935 Sam Cooke
+B01221937 Joseph Wambaugh
+B01221940 John Hurt
+B01221959 Linda Blair
+B01221960 Michael Kelland Hutchence
+B01221965 Diane Lane
+B01231737 John Hancock
+B01231832 Edouard Manet
+B01231919 Ernie Kovacs
+B01231928 Jeanne Moreau
+B01231933 Chita Rivera
+B01231944 Rutger Hauer
+B01231957 Princess Caroline of Monaco
+B01231974 Tiffani-Amber Thiessen
+B01241917 Ernest Borgnine
+B01241925 Maria Tallchief
+B01241941 Neil Diamond
+B01241949 John Belushi
+B01241951 Yakov Smirnoff
+B01241960 Nastassia Kinski
+B01241968 Mary Lou Retton
+B01251759 Robert Burns
+B01251882 Virginia Woolf
+B01251918 Ernie Harwell
+B01251919 Edwin Newman
+B01251931 Dean Jones
+B01251933 Corazon Aquino
+B01261880 Douglas MacArthur
+B01261923 Anne Jeffreys
+B01261925 Paul Newman
+B01261929 Jules Feiffer
+B01261935 Bob Uecker
+B01261942 Scott Glenn
+B01261944 Angela Davis
+B01261946 Gene Siskel
+B01261955 Eddie Van Halen
+B01261958 Anita Baker
+B01261958 Ellen DeGeneres
+B01261961 Wayne Gretzky
+B01271756 Wolfgang Amadeus Mozart
+B01271832 Lewis Carroll
+B01271885 Jerome Kern
+B01271918 Skitch Henderson
+B01271921 Donna Reed
+B01271936 Troy Donahue
+B01271948 Mikhail Baryshnikov
+B01271959 Cris Collinsworth
+B01271964 Bridget Fonda
+B01281887 Arthur Rubenstein
+B01281912 Jackson Pollock
+B01281936 Alan Alda
+B01281968 Sarah McLachlan
+B01281977 Joey Fatone, Jr.
+B01281980 Nick Carter
+B01281981 Elijah Wood
+B01291843 William McKinley
+#B01291880 W.C. Fields
+B01291885 Huddie "Leadbelly" Ledbetter
+B01291916 Victor Mature
+B01291918 John Forsythe
+B01291942 Katharine Ross
+B01291945 Tom Selleck
+B01291950 Ann Jillian
+B01291954 Oprah Winfrey
+B01291960 Greg Louganis
+B01301882 Franklin D. Roosevelt
+B01301922 Dick Martin
+B01301931 Gene Hackman
+B01301933 Louis Rukeyser
+B01301934 Tammy Grimes
+B01301937 Boris Spassky
+B01301937 Vanessa Redgrave
+B01301942 Marty Balin
+B01301951 Phil Collins
+B01301958 Brett Butler
+B01311915 Garry Moore
+B01311919 Jackie Robinson
+B01311921 Mario Lanza
+B01311923 Carol Channing
+B01311923 Norman Mailer
+B01311929 Jean Simmons
+B01311931 Ernie Banks
+B01311937 Suzanne Pleshette
+B01311941 Richard Gephardt
+B01311947 Nolan Ryan
+B01311971 Minnie Driver
+B01311981 Justin Timberlake
+B02011895 John Ford
+B02011901 Clark Gable
+B02011902 Langston Hughes
+B02011931 Boris Yeltsin
+B02011937 Don Everly
+B02011937 Garrett Morris
+B02011938 Sherman Hemsley
+B02011965 Sherilyn Fenn
+B02011968 Lisa Marie Presley
+B02021882 James Joyce
+B02021905 Ayn Rand
+B02021906 Gale Gordon
+B02021923 James Dickey
+B02021937 Tom Smothers
+B02021942 Graham Nash
+B02021947 Farrah Fawcett
+B02021949 Brent Spiner, andriod
+B02021954 Christie Brinkley
+B02031468 Johannes Gutenberg
+B02031874 Gertrude Stein
+B02031894 Norman Rockwell
+B02031907 James Michener
+B02031918 Joey Bishop
+B02031926 Shelley Berman
+B02031940 Fran Tarkenton
+B02031950 Morgan Fairchild
+B02041902 Charles Lindbergh
+B02041906 Clyde W. Tombaugh
+B02041913 Rosa Parks
+B02041918 Ida Lupino
+B02041921 Betty Friedan
+B02041945 David Brenner
+B02041947 Dan Quayle
+B02041948 Alice Cooper
+B02041959 Lawrence Taylor
+B02051900 Adlai E. Stevenson, Jr.
+B02051914 William Burroughs
+B02051919 Red Buttons
+B02051928 Andrew Greeley
+B02051934 Henry "Hank" Aaron
+B02051940 H.R. Giger
+B02051942 Roger Staubach
+B02051948 Barbara Hershey
+B02051962 Jennifer Jason Leigh
+B02061895 Babe Ruth
+B02061911 Ronald Reagan
+B02061919 Zsa Zsa Gabor
+B02061931 Mamie Van Doren
+B02061931 Rip Torn
+B02061939 Mike Farrell
+B02061940 Tom Brokaw
+B02061943 Fabian
+B02061944 Michael Tucker
+B02061945 Bob Marley
+B02061950 Natalie Cole
+B02061962 Axl Rose
+B02071812 Charles Dickens
+B02071867 Laura Ingalls Wilder
+B02071885 Sinclair Lewis
+B02071908 Larry "Buster" Crabbe
+B02071920 Eddie Bracken
+B02071962 Garth Brooks
+B02071966 Chris Rock
+B02081820 Willam Tecumseh Sherman
+B02081828 Jules Verne
+B02081902 Lyle Talbot
+B02081921 Lana Turner
+B02081924 Audrey Meadows
+B02081925 Jack Lemmon
+B02081931 James Dean
+B02081932 John Williams
+B02081940 Nick Nolte
+B02081940 Ted Koppel
+B02081942 Robert Klein
+B02081968 Gary Coleman
+B02091773 William H. Harrison
+B02091874 Amy Lowell
+B02091909 Carmen Miranda
+B02091914 Gypsy Rose Lee
+B02091923 Brendan Behan
+B02091928 Roger Mudd
+B02091942 Carole King
+B02091943 Joe Pesci
+B02091944 Alice Walker
+B02091945 Mia Farrow
+B02091955 Charles Shaughnessy
+B02101868 William Allen White, American writer and journalist
+B02101890 Boris Pasternak
+B02101893 Jimmy Durante
+B02101898 Bertolt Brecht
+B02101905 Lon Chaney, Jr.
+B02101927 Leontyne Price
+B02101930 Robert Wagner
+B02101939 Roberta Flack
+B02101950 Mark Spitz
+B02101955 Greg Norman
+B02101967 Laura Dern
+B02111847 Thomas Alva Edison
+B02111917 Sidney Sheldon
+B02111921 Eva Gabor
+B02111926 Leslie Nielsen
+B02111934 Tina Louise
+B02111936 Burt Reynolds
+B02111940 Bobby "Boris" Pickett
+B02111941 Segio Mendes
+B02111963 Sheryl Crow
+B02111969 Jennifer Aniston
+B02111979 Brandy
+B02111980 Matt Lawrence
+B02121809 Abraham Lincoln
+B02121809 Charles Darwin
+B02121904 Ted Mack
+B02121915 Lorne Greene
+B02121917 Dom DiMaggio
+B02121923 Franco Zeffirelli
+B02121926 Joe Garagiola
+B02121934 Bill Russell
+B02121938 Judy Blume
+B02121953 Joanna Kerns
+B02121955 Arsenio Hall
+B02121980 Christina Ricci
+B0213     Henry Rollins
+B02131885 Bess Truman
+B02131892 Grant Wood
+B02131919 Tennessee Ernie Ford
+B02131920 Eileen Farrell
+B02131923 Chuck Yeager
+B02131933 Kim Novak
+B02131934 George Segal
+B02131944 Jerry Springer
+B02131944 Peter Tork
+B02131944 Stockard Channing
+B02131950 Peter Gabriel
+B02141894 Jack Benny
+B02141913 Jimmy Hoffa
+B02141913 Mel Allen
+B02141921 Hugh Downs
+B02141932 Vic Morrow
+B02141934 Florence Henderson
+B02141944 Carl Bernstein
+B02141946 Gregory Hines
+B02141960 Meg Tilly
+B02141972 Drew Bledsoe
+B02151564 Galileo Galilei
+B02151820 Susan B. Anthony
+B02151882 John Barrymore
+B02151907 Cesar Romero
+B02151927 Harvey Korman
+B02151931 Claire Bloom
+B02151951 Jane Seymour
+B02151951 Melissa Manchester
+B02151954 Matt Groening
+B02151964 Chris Farley
+B02161903 Edgar Bergen
+B02161909 Hugh Beaumont
+B02161920 Patty Andrews
+B02161935 Sonny Bono
+B02161957 LeVar Burton
+B02161958 Ice-T
+B02161959 John McEnroe
+B02171908 Red Barber
+B02171914 Arthur Kennedy
+B02171925 Hal Holbrook
+B02171934 Alan Bates
+B02171936 Jim Brown
+B02171954 Rene Russo
+B02171963 Michael Jordan
+B02171974 Jerry O'Connell
+B02181859 Sholem Aleichem
+B02181920 Bill Cullen
+B02181920 Jack Palance
+B02181922 Helen Gurley Brown
+B02181925 George Kennedy
+B02181930 Gahan Wilson
+B02181931 Toni Morrison
+B02181932 Milos Forman
+B02181933 Yoko Ono
+B02181950 Cybill Shepherd
+B02181954 John Travolta
+B02181957 Vanna White
+B02181964 Matt Dillon
+B02181968 Molly Ringwald
+B02191473 Nicolas Copernicus
+B02191912 Stan Kenton
+B02191924 Lee Marvin
+B02191940 Smokey Robinson
+B02191955 Jeff Daniels
+B02191955 Margaux Hemingway
+B02191966 Justine Bateman
+B02201902 Ansel Adams
+B02201924 Gloria Vanderbilt
+B02201924 Sidney Poitier
+B02201925 Robert Altman
+B02201934 Bobby Unser
+B02201937 Nancy Wilson
+B02201941 Buffy Sainte-Marie
+B02201946 Sandy Duncan
+B02201948 Jennifer O'Neill
+B02201949 Ivana Trump
+B02201954 Patty Hearst
+B02201963 Charles Barkley
+B02201966 Cindy Crawford
+B02201967 Andrew Shue
+B02201967 Kurt Cobain
+B02201975 Brian Littrell
+B02211893 Andres Segovia
+B02211925 Sam Peckinpah
+B02211927 Erma Bombeck
+B02211933 Nina Simone
+B02211935 Rue McClanahan
+B02211936 Barbara Jordan
+B02211943 David Geffen
+B02211946 Tyne Daly
+B02211955 Kelsey Grammer
+B02211958 Alan Trammell
+B02211979 Jennifer Love Hew
+B02221732 George Washington
+B02221889 Lady Baden-Powell
+B02221900 Luis Bunuel
+B02221907 Robert Young
+B02221907 Sheldon Leonard
+B02221908 John Mills
+B02221932 Edward M. Kennedy
+B02221950 Dr. Julius Erving, b-ball
+B02221975 Drew Barrymore
+B0222     Kyle McLachlan, Dune and Twin Peaks
+B02231685 George Frederic Handel
+B02231868 W.E.B. DuBois
+B02231939 Peter Fonda
+B02231944 Johnny Winter
+B02231951 Patricia Richardson
+B02231955 Howard Jones
+B02241873 Enrico Caruso
+B02241921 Abe Vigoda
+B02241932 Michel Legrand
+B02241938 James Farentino
+B02241947 Edward James Olmos
+B02241955 Steven Jobs
+B02241956 Eddie Murray
+B02241966 Billy Zane
+B02251841 Pierre Auguste Renoir
+B02251901 Zeppo Marx
+B02251904 Adelle Davis
+B02251913 Jim Backus
+B02251917 Anthony Burgess
+B02251937 Tom Courtenay
+B02251943 George Harrison
+B02251943 Sally Jessy Raphael
+B02261802 Victor Hugo
+B02261829 Levi Strauss
+B02261846 William "Buffalo Bill" Cody
+B02261887 William Frawley
+B02261906 Madeleine Carroll
+B02261916 Jackie Gleason
+B02261920 Tony Randall
+B02261921 Betty Hutton
+B02261922 Margaret Leighton
+B02261928 Fats Domino
+B02261932 Johnny Cash
+B02261953 Michael Bolton
+B02271891 David Sarnoff
+B02271897 Marian Anderson
+B02271902 John Steinbeck
+B02271930 Joanne Woodward
+B02271932 Casey Kasem
+B02271932 Elizabeth Taylor
+B02271934 Ralph Nader
+B02271940 Howard Hesseman
+B02271943 Mary Frann
+B02271980 Chelsea Clinton
+B02281901 Linus Pauling
+B02281907 Earl Scheib
+B02281915 Zero Mostel
+B02281923 Charles Durning
+B02281930 Gavin MacLeod
+B02281939 Tommy Tune
+B02281940 Mario Andretti
+B02281942 Brian Jones
+B02281948 Bernadette Peters
+B02281955 Gilbert Gottfried
+B02291860 Herman Hollerith
+B02291896 William Wellman
+B02291904 Jimmy Dorsey
+B02291936 Jack Lousma
+B02291940 Gretchen Christopher
+B02291972 Antonio Sabato, Jr.
+B03011904 Glenn Miller
+B03011910 David Niven
+B03011914 Harry Caray
+B03011914 Ralph Ellison
+B03011917 Dinah Shore
+B03011926 Pete Rozelle
+B03011927 Harry Belafonte
+B03011935 Robert Conrad
+B03011944 Roger Daltrey
+B03011947 Alan Thicke
+B03011954 Ron Howard
+B03011958 Nik Kershaw
+B03011974 Mark-Paul Gosselaar
+B03021876 Pope Pius XII, Religious Leader, RN:Eugenio Pacelli; pope 1939-58
+B03021904 Dr. Seuss
+B03021917 Desi Arnaz
+B03021919 Jennifer Jones
+B03021931 Mikhail Gorbachev
+B03021944 Lou Reed
+B03021952 Laraine Newman
+B03021962 Jon Bon Jovi
+B03031847 Alexander Graham Bell
+B03031911 Jean Harlow
+B03031962 Herschel Walker
+B03031962 Jackie Joyner-Kersee
+B03041888 Knute Rockne
+B03041932 Miriam Makeba
+B03041939 Paula Prentiss
+B03041948 Chris Squire
+B03041962 Patsy Kensit
+B03041969 Chastity Bono
+B03051908 Rex Harrison
+B03051922 James Noble
+B03051936 Dean Stockwell
+B03051939 Samantha Eggar
+B03051946 Michael Warren
+B03051958 Andy Gibb
+B03051975 Niki Taylor
+B03061475 Michelangelo Buonarroti
+B03061906 Lou Costello
+B03061923 Ed McMahon
+B03061926 Alan Greenspan
+B03061930 Lorin Maazel
+B03061936 Marion Barry
+B03061941 Willie Stargell
+B03061944 Kiri Te Kanawa
+B03061945 Rob Reiner
+B03061959 Tom Arnold
+B03061972 Shaquille O'Neal
+B03071872 Pieter Mondriaan
+B03071875 Maurice Ravel
+B03071930 Lord Snowdon
+B03071934 Willard Scott
+B03071940 Daniel J. Travanti
+B03071942 Tammy Faye Bakker
+B03071960 Ivan Lendl
+B03081909 Claire Trevor
+B03081923 Cyd Charisse
+B03081943 Lynn Redgrave
+B03081945 Mickey Dolenz
+B03081959 Aidan Quinn
+B03081963 Kathy Ireland
+B03091918 Mickey Spillane
+B03091926 Irene Papas
+B03091932 Keely Smith
+B03091936 Mickey Gilley
+B03091940 Raul Julia
+B03091943 Bobby Fischer
+B03091971 Emmanuel Lewis
+B03101903 Bix Beiderbecke
+B03101918 Pamela Mason
+B03101928 James Earl Ray
+B03101940 Chuck Norris
+B03101947 Bob Greene
+B03101947 Kim Campbell
+B03101958 Sharon Stone
+B03101964 Jasmine Guy
+B03101977 Shannon Miller
+B03111903 Lawrence Welk
+B03111926 Ralph Abernathy
+B03111931 Rupert Murdoch
+B03111934 Sam Donaldson
+B03121921 Gordon MacRae
+B03121922 Jack Kerouac
+B03121928 Edward Albee
+B03121932 Andrew Young
+B03121940 Al Jarreau
+B03121941 Barbara Feldon
+B03121942 Paul Kantner
+B03121946 Liza Minnelli
+B03121948 James Taylor
+B03121962 Darryl Strawberry
+B03131855 Percival Lowell
+B03131911 L. Ron Hubbard
+B03131913 William Casey
+B03131939 Neil Sedaka
+B03131956 Dana Delany
+B03141879 Albert Einstein
+B03141912 Les Brown
+B03141920 Hank Ketcham
+B03141928 Frank Borman
+B03141933 Michael Caine
+B03141933 Quincy Jones
+B03141947 Billy Crystal
+B03141983 Taylor Hanson
+B03151767 Andrew Jackson
+B03151912 Samuel "Lightnin'" Hopkins
+B03151913 Macdonald Carey
+B03151916 Harry James
+B03151935 Judd Hirsch
+B03151940 Phil Lesh
+B03151944 Sly Stone
+B03151961 Fabio
+B03161906 Henny Youngman
+B03161912 Pat Nixon
+B03161926 Jerry Lewis
+B03161940 Bernardo Bertolucci
+B03161949 Erik Estrada
+B03171895 Shemp Howard
+B03171918 Mercedes McCambridge
+B03171938 Rudolf Nureyev
+B03171944 John Sebastian
+B03171949 Patrick Duffy
+B03171951 Kurt Russell
+B03171955 Gary Sinise
+B03171964 Rob Lowe
+B03181886 Edward Everett Horton
+B03181926 Peter Graves
+B03181927 George Plimpton
+B03181938 Charlie Pride
+B03181941 Wilson Pickett
+B03181959 Irene Cara
+B03181963 Vanessa Williams
+B03181964 Bonnie Blair
+B03181970 Queen Latifah
+B03191848 Wyatt Earp
+B03191928 Patrick McGoohan
+B03191935 Phyllis Newman
+B03191936 Ursula Andress
+B03191947 Glenn Close
+B03191955 Bruce Willis
+B03201906 Ozzie Nelson
+B03201922 Carl Reiner
+B03201928 Fred "Mr." Rogers
+B03201931 Hal Linden
+B03201945 Pat Riley
+B03201950 William Hurt
+B03201957 Spike Lee
+B03201958 Holly Hunter
+B03211839 Modest Mussorgsky
+B03211944 Timothy Dalton
+B03211958 Gary Oldman
+B03211962 Matthew Broderick
+B03211962 Rosie O'Donnell
+B03221887 Chico Marx
+B03221913 Karl Malden
+B03221923 Marcel Marceau
+B03221930 Stephen Sondheim
+B03221931 William Shatner
+B03221933 J.P. McCarthy
+B03221943 George Benson
+B03221948 Andrew Lloyd Webber
+B03221952 Bob Costas
+B03221959 Matthew Modine
+B03231908 Joan Crawford
+B03231910 Akira Kurosawa
+B03231923 Doc Watson
+B03231929 Roger Bannister
+B03231953 Chaka Khan
+B03231976 Keri Russell
+B03241874 Harry Houdini, illusionist
+B03241887 Roscoe "Fatty" Arbuckle
+B03241919 Lawrence Ferlinghetti
+B03241930 Steve McQueen
+B03251867 Arturo Toscanini
+B03251881 Bela Bartok
+B03251908 David Lean
+B03251920 Howard Cosell
+B03251921 Simone Signoret
+B03251934 Gloria Steinem
+B03251940 Anita Bryant
+B03251942 Aretha Franklin
+B03251943 Paul Michael Glaser
+B03251946 Bonnie Bedelia
+B03251947 Elton John, singer
+B03251965 Sarah Jessica Parker, actress
+B03261930 Sandra Day O'Connor
+B03261934 Alan Arkin
+B03261939 James Caan
+B03261942 Erica Jong
+B03261943 Bob Woodward
+B03261944 Diana Ross
+B03261948 Steven Tyler
+B03261949 Vicki Lawrence
+B03261950 Martin Short
+B03261950 Teddy Pendergrass
+B03261954 Curtis Sliwa
+B03261960 Marcus Allen
+B03271899 Gloria Swanson
+B03271924 Sarah Vaughan
+B03271931 David Janssen
+B03271942 Michael York
+B03271963 Quentin Tarantino
+B03271963 Xuxa
+B03271970 Mariah Carey
+B03281921 Dirk Bogarde
+B03281944 Ken Howard
+B03281948 Dianne Wiest
+B03281955 Reba McEntire
+B03291905 Philip Ahn
+B03291918 Pearl Bailey
+B03291918 Sam Walton
+B03291943 John Major
+B03291950 Bud Cort
+B03291964 Elle Macpherson
+B03291968 Lucy Lawless, actress (Xena)
+B03291976 Jennifer Capriati
+#B03301853 Vincent Van Gogh
+B03301913 Frankie Laine
+B03301930 John Astin
+B03301930 Peter Marshall
+B03301937 Warren Beatty
+B03301940 Astrud Gilberto
+B03301945 Eric Clapton
+B03301957 Paul Reiser
+B03301962 Hammer
+B03301968 Celine Dion
+B03311915 Henry Morgan
+B03311925 Leo Buscaglia
+B03311927 César Chávez
+B03311928 Gordie Howe
+B03311934 Shirley Jones
+B03311935 Herb Alpert
+B03311935 Richard Chamberlain
+B03311943 Christopher Walken
+B03311945 Gabe Kaplan
+B03311948 Al Gore
+B03311948 Rhea Perlman
+B04011908 Abraham Maslow
+B04011920 Toshiro Mifune
+B04011926 Anne McCaffrey
+B04011932 Debbie Reynolds
+B04011932 Gordon Jump
+B04011938 Ali MacGraw
+B04021805 Hans Christian Andersen
+B04021908 Buddy Ebsen
+B04021914 Alec Guinness
+B04021939 Marvin Gaye
+B04021945 Linda Hunt
+B04021947 Emmylou Harris
+B04021954 Ron "Horshack" Palillo
+B04021955 Dana Carvey, Saturday Night Live actor
+#B04031783 Washington Irving
+B04031916 Herb Caen
+B04031924 Doris Day, whatever become of her?
+#B04031924 Marlon Brando
+B04031942 Marsha Mason
+B04031942 Wayne Newton
+B04031944 Tony Orlando
+B04031958 Alec Baldwin, actor
+B04031961 Eddie Murphy, played Saturday Night Live and Beverly Hills Cop
+B04031971 Picabo Street
+B04031972 Jennie Garth
+B04041895 Arthur Murray
+B04041906 John Cameron Swayze
+B04041914 Frances Langford
+B04041915 Muddy Waters
+B04041928 Maya Angelou
+B04041932 Anthony Perkins
+B04041946 Craig T. Nelson
+B04041963 David Gavurin
+B04041965 Robert Downey, Jr.
+B04051900 Spencer Tracy
+B04051916 Gregory Peck
+B04051921 Gale Storm
+B04051926 Roger Corman
+B04051934 Frank Gorshin
+B04051937 Colin Powell
+B04051950 Agnetha Faltskog
+B04061866 Butch Cassidy
+B04061929 Andre Previn
+B04061937 Billy Dee Williams
+B04061937 Merle Haggard
+B04061941 Philip Austin
+B04061947 John Ratzenberger
+B04061952 Marilu Henner
+B04061976 Candace Cameron
+B04071897 Walter Winchell
+#B04071915 Billie Holiday
+B04071920 Ravi Shankar
+B04071928 James Garner
+B04071933 Wayne Rogers
+B04071939 David Frost
+B04071939 Francis Coppola
+B04071951 Janis Ian
+B04071954 Jackie Chan
+B04071964 Russell Crowe
+B04071975 Victoria Addams
+#B04081912 Sonja Henie
+B04081918 Betty Ford
+B04081926 Shecky Greene
+B04081963 Julian Lennon
+B04091926 Hugh Hefner
+B04091933 Jean-Paul Belmondo
+B04091935 Avery Schreiber
+B04091939 Michael Learned
+B04091954 Dennis Quaid
+B04091965 Paulina Porizkova
+B04091979 Keshia Knight Pulliam
+B04101794 Commodore Matthew Perry
+B04101847 Joseph Pulitzer
+B04101915 Harry Morgan
+B04101921 Chuck Connors
+B04101929 Max Von Sydow
+B04101932 Omar Sharif
+B04101936 John Madden
+B04101951 Steven Seagal
+B04111913 Oleg Cassini
+B04111932 Joel Grey
+B04111939 Louise Lasser
+B04121923 Ann Miller
+B04121930 Tiny Tim
+B04121940 Herbie Hancock
+B04121947 David Letterman
+B04121947 Tom Clancy
+B04121950 David Cassidy
+B04121956 Andy Garcia
+B04121971 Shannen Doherty
+B04121979 Claire Danes
+B04131906 Samuel Beckett
+B04131909 Eudora Welty
+B04131926 Don Adams
+B04131935 Lyle Waggoner
+B04131944 Jack Casady
+B04131945 Tony Dow
+B04131946 Al Green
+#B04131963 Garry Kasparov
+B04131970 Rick Schroder
+B04131971 Corey Haim
+B04141904 John Gielgud
+B04141925 Rod Steiger
+B04141935 Loretta Lynn
+B04141941 Julie Christie
+B04141941 Pete Rose
+B04141961 Robert Carlyle
+B04141977 Sarah Michelle Gellar
+B04151894 Bessie Smith
+B04151917 Hans Conried
+B04151933 Elizabeth Montgomery
+B04151933 Roy Clark
+B04151939 Claudia Cardinale
+B04151959 Emma Thompson
+B04161919 Merce Cunningham
+B04161920 Barry Nelson
+B04161921 Peter Ustinov
+B04161924 Henry Mancini
+B04161929 Edie Adams
+B04161930 Herbie Mann
+B04161935 Bobby Vinton
+B04161939 Dusty Springfield
+B04161955 Ellen Barkin
+B04161965 Martin Lawrence
+B04161971 Selena Quintanilla
+#B04171894 Nikita Khrushchev
+B04171918 William Holden
+B04171923 Harry Reasoner
+B04171951 Olivia Hussey
+B04181882 Leopold Stokowski
+B04181946 Hayley Mills
+B04181956 Eric Roberts
+B04181963 Conan O'Brien
+B04181976 Melissa Joan Hart
+B04191925 Hugh O'Brian
+#B04191933 Jayne Mansfield
+B04191935 Dudley Moore
+B04191946 Tim Curry
+B04191949 Paloma Picasso
+B04191962 Al Unser, Jr.
+#B04201889 Adolf Hitler
+#B04201893 Harold Lloyd
+B04201924 Nina Foch
+B04201941 Ryan O'Neal
+B04201949 Jessica Lange
+B04201959 Clint Howard
+B04201972 Carmen Electra
+B04201976 Joey Lawrence
+#B04211816 Charlotte Bronte
+#B04211838 John Muir
+B04211915 Anthony Quinn
+B04211926 Elizabeth II, Queen of England
+B04211932 Elaine May
+B04211935 Charles Grodin
+B04211951 Tony Danza
+B04211958 Andie Macdowell
+#B04221870 Vladimir Ilyich Lenin
+B04221899 Vladimir Nabokov
+B04221908 Eddie Albert
+#B04221916 Yehudi Menuhin
+B04221928 Aaron Spelling
+B04221936 Glen Campbell
+B04221937 Jack Nicholson
+B04221950 Peter Frampton
+#B04231564 William Shakespeare
+#B04231928 Shirley Temple Black
+B04231940 Lee Majors
+B04231942 Sandra Dee
+B04231949 Joyce DeWitt
+B04231957 Jan Hooks
+B04231960 Valerie Bertinelli
+B04231970 Scott Bairstow
+B04241934 Shirley MacLaine
+B04241936 Jill Ireland
+#B04241942 Barbra Streisand
+B04241945 Doug Clifford
+B04241972 Chipper Jones
+B04251918 Ella Fitzgerald
+B04251930 Paul Mazursky
+B04251932 Meadowlark Lemon
+B04251940 Al Pacino
+B04251945 Bjorn Ulvaeus
+B04251945 Stu Cook
+B04251946 Talia Shire
+B04251964 Hank Azaria
+B04251969 Renee Zellweger
+B04261933 Carol Burnett
+B04261938 Duane Eddy
+B04261942 Bobby Rydell
+B04271922 Jack Klugman
+B04271932 Anouk Aimee
+B04271937 Sandy Dennis
+B04271959 Sheena Easton
+B04281937 Saddam Hussein, Iraqi president
+B04281941 Ann-Margret
+B04281950 Jay Leno, entertainer
+B04281958 Nancy Lee Grahn
+B04281981 Jessica Alba
+#B04291899 Duke Ellington
+B04291909 Tom Ewell
+B04291919 Celeste Holm
+#B04291936 Zubin Mehta
+B04291951 Dale Earnhardt
+B04291954 Jerry Seinfeld
+B04291957 Daniel Day-Lewis
+B04291958 Michelle Pfeiffer
+B04291970 Andre Agassi
+B04291970 Uma Thurman
+B04301926 Cloris Leachman
+B04301933 Willie Nelson
+B04301940 Burt Young
+B04301944 Jill Clayburgh
+B04301961 Isiah Thomas
+B05011909 Kate Smith
+B05011916 Glenn Ford
+B05011918 Jack Paar
+B05011924 Terry Southern
+B05011939 Judy Collins
+B05011945 Rita Coolidge
+B05011974 Antoine de Bouverie
+B05021892 Baron Von Richthofen
+B05021903 Dr. Benjamin Spock
+B05021924 Theodore Bikel
+B05021925 Roscoe Lee Browne
+B05021936 Engelbert Humperdinck
+B05021945 Bianca Jagger
+B05021946 Lesley Gore
+B05021972 The Rock, WWF
+B05031903 Bing Crosby
+#	B05031919 Pete Seeger
+B05031928 James Brown
+B05031937 Frankie Valli
+B05031947 Doug Henning
+B05031951 Christopher Cross
+B05041919 Heloise
+B05041929 Audrey Hepburn
+B05041941 George F. Will
+B05041956 Pia Zadora
+B05041979 Lance Bass
+B05051818 Karl Marx
+B05051913 Tyrone Power
+B05051915 Alice Faye
+B05051927 Pat Carroll
+B05051942 Tammy Wynette
+B05051973 Tina Yothers
+B05051981 Danielle Fishel
+B05061856 Robert E. Peary
+B05061856 Sigmund Freud
+B05061931 Willie Mays
+B05061945 Bob Seger
+B05061953 Tony Blair
+B05061961 George Clooney
+B05071885 Gabby Hayes
+B05071919 Eva Peron
+B05071922 Darren McGavin
+B05071931 Teresa Brewer
+B05071933 Johnny Unitas
+#B05071968 Traci Lords
+B05081895 Bishop Fulton Sheen
+B05081926 Don Rickles
+B05081940 Peter Benchley
+B05081940 Rick Nelson
+B05081943 Toni Tennille
+B05081964 Melissa Gilbert
+B05091918 Mike Wallace
+B05091936 Albert Finney
+B05091936 Glenda Jackson
+B05091940 James L. Brooks
+B05091946 Candice Bergen
+B05091949 Billy Joel
+B05091960 Tony Gwynn
+B05101922 Nancy Walker
+B05101936 Gary Owens
+B05101946 Donovan
+B05101960 (Paul Hewson) Bono
+B05101977 Amanda Borden
+B05111894 Martha Graham
+B05111912 Phil Silvers
+B05111927 Mort Sahl
+B05111933 Louis Farrakhan
+B05111963 Natasha Richardson
+#B05121820 Florence Nightingale
+B05121907 Katharine Hepburn
+#B05121925 Yogi Berra
+B05121929 Burt Bacharach
+B05121936 Tom Snyder
+B05121937 George Carlin
+B05121948 Steve Winwood
+B05121962 Emilio Estevez
+B05121968 Tony Hawk
+#B05131842 Arthur Sullivan
+B05131914 Joe Louis
+B05131926 Beatrice Arthur
+B05131939 Harvey Keitel
+B05131941 Richie Valens
+B05131950 Stevie Wonder
+B05131961 Dennis Rodman
+B05141933 Laszlo Kovacs
+B05141936 Bobby Darin
+#B05141944 George Lucas
+B05141951 Robert Zemeckis
+B05141961 Tim Roth
+B05151905 Joseph Cotten
+B05151909 James Mason
+B05151918 Eddy Arnold
+B05151936 Anna Maria Alberghetti
+B05151937 Trini Lopez
+B05151953 George Brett
+B05151969 Emmitt Smith
+B05151972 David Charvet
+#B05161801 William Seward
+B05161905 Henry Fonda
+#B05161919 Liberace
+B05161952 Pierce Brosnan
+B05161955 Debra Winger
+B05161966 Janet Jackson
+B05161969 Tracey Gold
+B05161973 Tori Spelling
+B05171900 Ayatollah Khomeini
+B05171911 Maureen O'Sullivan
+B05171936 Dennis Hopper
+B05171956 Bob Saget
+B05171956 Sugar Ray Leonard
+B05171961 Enya
+B05181897 Frank Capra
+B05181912 Perry Como
+B05181919 Margot Fonteyn
+B05181920 Pope John Paul II
+B05181930 Pernell Roberts
+B05181931 Robert Morse
+B05181934 Dwayne Hickman
+B05181946 Reggie Jackson
+B05181952 George Strait
+#B05191890 Ho Chi Minh
+B05191925 Malcolm X (Malcolm Little)
+B05191939 James Fox
+B05191941 Nora Ephron
+B05191945 Pete Townshend
+B05191952 Grace Jones
+#B05201908 Jimmy Stewart
+B05201919 George Gobel
+B05201940 Stan Mikita
+B05201944 Joe Cocker
+#B05201946 Cher
+B05201959 Bronson Pinchot
+B05211904 Fats Waller
+B05211916 Harold Robbins
+B05211917 Dennis Day
+B05211917 Raymond Burr
+B05211924 Peggy Cass
+B05211952 Mr. T
+B05211974 Fairuza Balk
+B05221813 Richard Wagner
+B05221844 Mary Cassat
+#B05221859 Sir Arthur Conan Doyle
+#B05221907 Laurence Olivier
+B05221938 Richard Benjamin
+B05221938 Susan Strasberg
+B05221941 Paul Winfield
+B05221959 Morrissey
+B05221970 Naomi Campbell
+B05231910 Scatman Crothers
+B05231920 Helen O'Connell
+B05231928 Rosemary Clooney
+B05231933 Joan Collins
+B05231952 Marvin Hagler
+B05231974 Jewel
+B05241938 Tommy Chong
+B05241941 Bob Dylan
+B05241943 Gary Burghoff
+B05241944 Patti LaBelle
+B05241945 Priscilla Presley
+B05241955 Rosanne Cash
+B05241963 Joe Dumars
+B05251803 Ralph W. Emerson
+B05251918 Claude Akins
+B05251925 Jeanne Crain
+#B05251926 Miles Davis
+B05251927 Robert Ludlum
+#B05251929 Beverly Sills
+B05251936 Tom T. Hall
+B05251943 Leslie Uggams
+B05251955 Connie Sellecca
+#B05261886 Al Jolson
+#B05261907 John Wayne
+B05261908 Robert Morley
+B05261913 Peter Cushing
+B05261919 Jay Silverheels
+B05261920 Peggy Lee
+B05261923 James Arness
+B05261939 Brent Musburger
+B05261948 Stevie Nicks
+B05261949 Hank Williams, Jr.
+B05261949 Philip Michael Thomas
+B05261951 Sally Ride
+#B05271837 Wild Bill Hickock
+B05271878 Isadora Duncan
+#B05271894 Dashiell Hammett
+B05271911 Hubert H. Humphrey
+B05271911 Vincent Price
+B05271922 Christopher Lee
+B05271923 Henry Kissinger
+B05271936 Louis Gossett, Jr.
+B05271965 Todd Bridges
+B05271969 Jeremy Mayfield
+#B05281888 Jim Thorpe
+#B05281908 Ian Fleming
+B05281931 Carroll Baker
+B05281944 Gladys Knight
+B05281944 Rudolph Giuliani
+B05281945 John Fogerty
+B05291736 Patrick Henry
+B05291903 Bob Hope
+#B05291917 John F. Kennedy
+B05291932 Paul Erlich
+B05291939 Al Unser
+B05291956 LaToya Jackson
+B05291958 Annette Bening
+B05291961 Melissa Etheridge
+B05291975 Melanie Janine Brown
+B05301908 Mel Blanc
+#B05301909 Benny Goodman
+B05301936 Keir Dullea
+B05301939 Michael J. Pollard
+B05301964 Wynonna Judd
+#B05311819 Walt Whitman
+B05311894 Fred Allen
+B05311898 Norman Vincent Peale
+B05311908 Don Ameche
+B05311922 Denholm Elliott
+B05311930 Clint Eastwood
+B05311938 Peter Yarrow
+B05311941 Johnny Paycheck
+B05311943 Joe Namath
+B05311943 Sharon Gless
+B05311950 Gregory Harrison
+B05311961 Lea Thompson
+B05311965 Brooke Shields
+B06011921 Nelson Riddle
+B06011926 Andy Griffith
+#B06011926 Marilyn Monroe
+B06011930 Edward Woodward
+B06011934 Pat Boone
+B06011937 Morgan Freeman
+B06011940 Rene Auberjonois
+B06011974 Alanis Morissette
+B06021890 Hedda Hopper
+#B06021904 Johnny Weissmuller
+B06021937 Sally Kellerman
+B06021941 Stacy Keach
+B06021944 Marvin Hamlisch
+#B06021948 Jerry Mathers
+#B06031808 Jefferson Davis
+#B06031906 Josephine Baker
+B06031915 Leo Gorcey
+B06031925 Tony Curtis
+B06031926 Allen Ginsberg
+B06031926 Colleen Dewhurst
+B06031942 Curtis Mayfield
+B06031950 Suzi Quatro
+B06041919 Robert Merrill
+B06041922 Gene Barry
+B06041924 Dennis Weaver
+B06041928 Dr. Ruth Westheimer
+B06041936 Bruce Dern
+B06041944 Michelle Phillips
+B06041961 Sam Harris
+B06041971 Noah Wyle
+B06051928 Tony Richardson
+B06051934 Bill Moyers
+B06051949 Ken Follett
+B06051971 Marky Mark
+#B06061875 Thomas Mann
+B06061939 Gary U.S. Bonds
+B06061955 Dana Carvey, "The Church Lady"
+B06061955 Sandra Bernhard
+#B06061956 Bjorn Borg
+#B06071848 Paul Gauguin
+B06071909 Jessica Tandy
+B06071917 Dean Martin
+B06071940 Tom Jones
+B06071952 Liam Neeson
+B06071958 (Formerly Known As) Prince
+B06071981 Anna Kournikova
+B06071981 Larisa Oleynik
+#B06081867 Frank Lloyd Wright
+#B06081918 Robert Preston
+B06081925 Barbara Bush
+B06081929 Jerry Stiller
+B06081933 Joan Rivers
+B06081940 Nancy Sinatra
+B06081944 Boz Scaggs
+#B06091892 Cole Porter
+B06091910 Robert Cummings
+B06091934 Jackie Mason
+B06091940 Dick Vitale
+B06091961 Michael J. Fox, starred in "Back to the Future"
+B06091963 Johnny Depp
+B06091981 Natalie Portman, starred in Star Wars Episode I
+#B06101904 Frederick Loewe
+B06101915 Saul Bellow
+B06101922 Judy Garland
+#B06101928 Maurice Sendak
+B06101933 F. Lee Bailey
+B06101966 Elizabeth Hurley
+B06101982 Tara Lipinski
+#B06111910 Jacques Cousteau
+B06111935 Gene Wilder
+B06111936 Chad Everett
+B06111945 Adrienne Barbeau
+B06111956 Joe Montana
+#B06121924 George Bush
+B06121928 Vic Damone
+#B06121929 Anne Frank, had a diary
+B06121932 Jim Nabors
+B06121941 Chick Corea
+B06121941 Marv Albert
+#B06131865 William Butler Yeats
+B06131913 Ralph Edwards
+B06131926 Paul Lynde
+#B06131935 Christo
+B06131943 Malcolm McDowell
+B06131951 Richard Thomas
+B06131953 Tim Allen
+B06131962 Ally Sheedy
+B06131969 Jamie Walters
+B06131986 Mary-Kate and Ashley Olsen
+B06141909 Burl Ives
+B06141925 Pierre Salinger
+B06141931 Marla Gibbs
+B06141933 Jerzy Kosinski
+B06141961 Boy George
+B06141968 Yasmine Bleeth
+B06141969 Steffi Graf
+B06151921 Erroll Garner
+B06151932 Mario Cuomo
+B06151937 Waylon Jennings
+B06151954 Jim Belushi
+B06151963 Helen Hunt
+B06151964 Courteney Cox
+#B06161890 Stan Laurel
+B06161937 Erich Segal
+B06161938 Joyce Carol Oates
+B06161943 Joan Van Ark
+B06161971 Tupac Shakur
+#B06171882 Igor Stravinski
+B06171898 M.C. Escher
+B06171904 Ralph Bellamy
+B06171943 Newt Gingrich
+B06171945 Art Bell
+B06171946 Barry Manilow
+B06171951 Joe Piscopo
+B06171965 Dan Jansen
+B06171980 Venus Williams
+#B06181903 Jeanette MacDonald
+B06181908 Bud Collyer
+B06181910 E.G. Marshall
+B06181942 Paul McCartney
+B06181942 Roger Ebert
+B06181952 Carol Kane
+B06181952 Isabella Rossellini
+B06181971 Nathan Morris
+#B06191623 Blaise Pascal
+B06191897 Moe Howard
+#B06191902 Guy Lombardo
+B06191903 Lou Gehrig
+B06191915 Pat Buttram
+B06191919 Louis Jourdan
+B06191919 Pauline Kael
+B06191934 Gena Rowlands
+B06191948 Phylicia Rashad
+B06191954 Kathleen Turner
+B06191962 Paula Abdul
+B06201924 Chet Atkins
+B06201931 Martin Landau
+B06201933 Danny Aiello
+B06201942 Brian Wilson
+B06201945 Anne Murray
+B06201949 Lionel Richie
+B06201952 John Goodman
+#B06211905 Jean-Paul Sartre
+#B06211921 Jane Russell
+B06211925 Maureen Stapleton
+B06211940 Mariette Hartley
+B06211947 Meredith Baxter
+B06211947 Michael Gross
+B06211967 Nicole Kidman
+B06211973 Juliette Lewis
+B06211982 Prince William
+#B06221906 Billy Wilder
+B06221921 Joseph Papp
+B06221936 Kris Kristofferson
+B06221941 Ed Bradley
+B06221949 Lindsay Wagner
+B06221949 Meryl Streep
+B06221953 Cyndi Lauper
+B06221954 Freddie Prinze
+B06221973 Carson Daly
+B06231894 Alfred Kinsey
+#B06231912 Alan Turing
+#B06231927 Bob Fosse
+B06231929 June Carter
+#B06241842 Ambrose Bierce
+#B06241895 Jack Dempsey
+B06241899 Chief Dan George
+B06241942 Michele Lee
+B06241944 Jeff Beck
+#B06251903 George Orwell
+B06251924 Sidney Lumet
+B06251925 June Lockhart
+B06251945 Carly Simon
+B06251949 Jimmie Walker
+B06251949 Phyllis George
+B06251963 George Michael
+B06261892 Pearl S. Buck
+#B06261904 Peter Lorre
+B06261914 Babe Didrikson Zaharias
+B06261922 Eleanor Parker
+B06261961 Greg LeMond
+B06261963 Harriet Wheeler
+B06261970 Chris O'Donnell
+B06261974 Derek Jeter
+#B06271927 Bob "Captain Kangaroo" Keeshan
+#B06271930 H. Ross Perot
+B06271951 Julia Duffy
+B06281902 John Dillinger
+B06281926 Mel Brooks
+B06281933 Pat Morita
+#B06281946 Gilda Radner
+B06281948 Kathy Bates
+B06281960 John Elway
+B06281966 John Cusack
+B06281970 Steve Burton
+B06291900 Antoine de Saint-Exupery
+#B06291919 Slim Pickens
+B06291930 Robert Evans
+B06291944 Gary Busey
+B06291947 Richard Lewis
+B06291948 Fred Grandy
+B06301917 Buddy Rich
+B06301917 Lena Horne
+B06301919 Susan Hayward
+#B06301934 Harry Blackstone, Jr.
+B06301966 Mike Tyson, will box your ear off
+B06301975 Ralf Schumacher
+#B07011916 Olivia DeHavilland
+B07011931 Leslie Caron
+B07011934 Jamie Farr
+B07011934 Jean Marsh
+#B07011941 Twyla Tharp
+B07011942 Genevieve Bujold
+B07011942 Karen Black
+B07011945 Deborah Harry
+B07011952 Dan Aykroyd
+B07011961 Carl Lewis
+B07011961 Princess Diana
+B07011967 Pamela Anderson
+B07011977 Liv Tyler
+#B07021877 Hermann Hesse
+B07021908 Thurgood Marshall
+B07021922 Dan Rowan
+B07021986 Lindsay Lohan
+B07031878 George M. Cohan
+#B07031883 Franz Kafka
+B07031927 Ken Russell
+B07031937 Tom Stoppard
+B07031952 Alan Autry
+B07031962 Tom Cruise (Thomas Cruise Mapother IV), a top gun
+#B07041872 Calvin Coolidge
+#B07041883 Rube Goldberg
+B07041902 George Murphy
+B07041910 Gloria Stuart
+B07041911 Mitch Miller
+B07041918 Abigail Van Buren
+B07041918 Ann Landers
+B07041924 Eva Marie Saint
+B07041927 Gina Lollobrigida
+B07041927 Neil Simon
+B07041930 George Steinbrenner
+B07041943 Geraldo Rivera
+#B07051810 P.T. Barnum
+B07051889 Jean Cocteau
+B07051951 Huey Lewis
+B07061915 Laverne Andrews
+B07061921 Nancy Reagan
+B07061922 William Schallert
+B07061925 Bill Haley
+B07061925 Merv Griffin
+B07061927 Janet Leigh
+B07061932 Della Reese
+B07061937 Ned Beatty
+B07061946 Sylvester Stallone
+B07061978 Tia and Tamera Mowry
+#B07071922 Pierre Cardin
+B07071927 Doc Severinsen
+B07071940 Ringo Starr
+B07071949 Shelley Duvall
+B07071969 Cree Summer
+B07071980 Michelle Kwan
+#B07081839 John D. Rockefeller
+B07081908 Nelson Rockefeller
+B07081914 Billy Eckstine
+B07081935 Steve Lawrence
+B07081951 Anjelica Huston
+B07081952 Marianne Williamson
+B07081958 Kevin Bacon
+B07081973 Kathleen Robertson
+B07091856 Nikola Tesla, electrogenius, great grandfather of radio
+B07091927 Ed Ames
+B07091947 O.J. Simpson
+B07091952 John Tesh
+B07091956 Tom Hanks, stared in "Big" and "Forest Gump"
+B07091957 Kelly McGillis
+B07091958 Jimmy Smits
+B07091964 Courtney Love
+B07091976 Fred Savage
+B07101920 David Brinkley
+B07101921 Jake LaMotta
+B07101926 Fred Gwynne
+B07101943 Arthur Ashe
+#B07101947 Arlo Guthrie
+#B07111767 John Quincy Adams
+#B07111899 E.B. White
+#B07111920 Yul Brynner
+B07111931 Tab Hunter
+B07111934 Giorgio Armani
+B07111953 Leon Spinks
+B07111958 Mark Lester
+#B07111959 Suzanne Vega
+#B07120100 Julius Caesar
+#B07121817 Henry David Thoreau
+B07121861 George Washington Carver
+#B07121895 Oscar Hammerstein II
+#B07121895 R. Buckminster Fuller
+#B07121908 Milton Berle
+B07121917 Andrew Wyeth
+#B07121934 Van Cliburn
+B07121937 Bill Cosby
+B07121948 Richard Simmons
+B07121951 Cheryl Ladd
+B07121971 Kristi Yamaguchi
+B07131928 Bob Crane
+B07131940 Patrick Stewart
+B07131942 Harrison Ford
+B07131946 Cheech Marin
+#B07141912 Woody Guthrie
+#B07141913 Gerald R. Ford
+#B07141918 Ingmar Bergman
+B07141923 Dale Robertson
+B07141926 Harry Dean Stanton
+B07141930 Polly Bergen
+B07141932 Roosevelt Grier
+#B07151606 Rembrandt Van Rijn
+#B07151779 Clement Clarke Moore
+B07151935 Alex Karras
+B07151944 Jan-Michael Vincent
+B07151946 Linda Ronstadt
+B07151973 Brian Austin Green, 90210
+B07161821 Mary Baker Eddy
+#B07161872 Roald Amundsen
+B07161907 Barbara Stanwyck
+#B07161911 Ginger Rogers
+B07161924 Bess Myerson
+B07161958 Michael Flatley
+B07161968 Barry Sanders
+B07161971 Corey Feldman
+#B07171889 Erle Stanley Gardner
+#B07171899 James Cagney
+B07171912 Art Linkletter
+B07171917 Phyllis Diller
+#B07171934 Donald Sutherland
+B07171935 Diahann Carroll
+B07171952 David Hasselhoff
+B07171952 Phoebe Snow
+#B07181911 Hume Cronyn
+#B07181913 Richard "Red" Skelton
+B07181914 Harriet Nelson
+B07181918 Nelson Mandela
+#B07181921 John Glenn
+B07181929 Dick Button
+B07181939 Hunter S. Thompson
+B07181941 Martha Reeves
+#B07191834 Edgar Degas
+B07191860 Lizzie Borden
+B07191922 George McGovern
+B07191941 Vikki Carr
+B07191947 Brian May
+B07201933 Chuck Daly
+B07201938 Diana Rigg
+B07201938 Natalie Wood
+B07201946 Kim Carnes
+B07201947 Carlos Santana, Oye Como Va
+#B07211899 Ernest Hemingway
+#B07211911 Marshall McLuhan
+#B07211920 Isaac Stern
+B07211922 Kay Starr
+B07211924 Don Knotts
+B07211926 Norman Jewison
+B07211946 Kenneth Starr
+B07211948 Cat Stevens
+#B07211952 Robin Williams
+B07211957 Jon Lovitz
+B07211988 Hatty Jones
+#B07221890 Rose Kennedy
+B07221898 Alexander Calder
+B07221923 Bob Dole
+B07221928 Orson Bean
+B07221934 Louise Fletcher
+B07221940 Alex Trebek
+B07221947 Albert Brooks
+B07221947 Danny Glover
+B07221947 Don Henley
+B07221949 Alan Menken
+B07231893 Karl Menninger
+B07231894 Arthur Treacher
+B07231933 Bert Convy
+B07231936 Don Drysdale
+B07231940 Don Imus
+B07231961 Woody Harrelson
+B07231973 Monica Lewinsky
+#B07241898 Amelia Earhart
+B07241936 Ruth Buzzi
+B07241949 Michael Richards
+B07241951 Lynda Carter
+B07241970 Jennifer Lopez
+B07241982 Anna Paquin
+B07251894 Walter Brennan
+B07251924 Estelle Getty
+B07251935 Barbara Harris
+B07251954 Walter Payton
+#B07261856 George Bernard Shaw
+#B07261875 Carl Jung
+#B07261894 Aldous Huxley
+B07261902 Gracie Allen
+B07261912 Vivian Vance
+B07261922 Blake Edwards
+B07261922 Jason Robards, Jr.
+#B07261928 Stanley Kubrick
+#B07261943 Mick Jagger
+B07261949 Roger Taylor
+B07261956 Dorothy Hamill
+B07261959 Kevin Spacey
+B07261965 Sandra Bullock
+B07271922 Norman Lear
+B07271931 Jerry Van Dyke
+B07271944 Bobbie Gentry
+B07271947 Betty Thomas
+#B07271948 Peggy Fleming
+B07271949 Maureen McGovern
+#B07281866 Beatrix Potter
+B07281901 Rudy Vallee
+B07281902 Richard Rogers
+B07281940 Phil Proctor
+B07281945 Jim Davis
+B07281948 Sally Struthers
+#B07291883 Benito Mussolini
+#B07291907 Melvin Belli
+B07291936 Elizabeth Dole
+B07291938 Peter Jennings
+B07291949 Marilyn Quayle
+B07291973 Wanya Morris
+B07301818 Emily Bronte
+#B07301863 Henry Ford
+B07301891 Casey Stengel
+B07301930 Thomas Sowell
+B07301933 Edd "Kookie" Byrnes
+B07301939 Peter Bogdanovich
+B07301941 Paul Anka
+B07301947 Arnold Schwarzenegger
+B07301948 Jean Reno
+B07301956 Delta Burke
+B07301964 Vivica A. Fox
+#B07311912 Milton Friedman
+B07311919 Curt Gowdy
+B07311944 Geraldine Chaplin
+B07311951 Barry Van Dyke
+B07311958 Bill Berry
+B07311962 Wesley Snipes
+B07311966 Dean Cain
+B08011819 Herman Melville
+B08011933 Dom DeLuise
+B08011936 Yves Saint Laurent
+#B08011942 Jerry Garcia
+B08011973 Tempestt Bledsoe
+B08021905 Myrna Loy
+B08021924 Carroll O'Connor
+B08021924 James Baldwin
+B08021932 Peter O'Toole
+B08021950 Judge Lance Ito
+B08021977 Edward Furlong
+#B08031926 Tony Bennett
+B08031940 Martin Sheen
+B08031941 Martha Stewart
+B08031950 John Landis
+B08031951 Jay North
+#B08041792 Percy Bysshe Shelley
+B08041900 Elizabeth, The Queen Mother
+B08041901 Louis Armstrong
+B08041912 Raoul Wallenberg
+B08041955 Billy Bob Thornton
+B08041962 Roger Clemens
+B08041971 Jeff Gordon
+B08051906 John Huston
+#B08051930 Neil Armstrong
+B08051946 Loni Anderson
+B08051956 Maureen McCormick
+B08051962 Patrick Ewing
+#B08061911 Lucille Ball
+#B08061917 Robert Mitchum
+B08061928 Andy Warhol, pop star
+B08061972 Geri Estelle Halliwell
+B08071876 Mata Hari
+B08071884 Billie Burke
+B08071904 Ralph Bunche
+B08071926 Stan Freberg
+B08071928 "The Amazing" James Randi
+#B08071942 Garrison Keillor
+B08071960 David Duchovny
+B08081866 Matthew Henson
+B08081922 Rory Calhoun
+#B08081922 Rudi Gernreich
+#B08081923 Esther Williams
+B08081927 Carl "Alfalfa" Switzer
+B08081932 Mel Tillis
+B08081937 Dustin Hoffman
+B08081938 Connie Stevens
+B08081949 Keith Carradine
+B08081953 Donny Most
+B08081976 J.C. Chasez
+B08081978 Oddie, Garfield's sidekick
+B08091896 Jean Piaget
+B08091927 Robert Shaw
+B08091944 Sam Elliott
+B08091957 Melanie Griffith
+B08091963 Whitney Houston
+B08091967 Deion Sanders
+B08091968 Gillian Anderson
+#B08101874 Herbert Hoover
+B08101923 Rhonda Fleming
+B08101928 Eddie Fisher
+B08101928 Jimmy Dean
+B08101933 Rocky Colavito
+B08101947 Ian Anderson
+B08101959 Rosanna Arquette
+B08101960 Antonio Banderas
+B08111921 Alex Haley
+B08111925 Mike Douglas
+B08111928 Arlene Dahl
+B08111933 Reverend Jerry Falwell
+B08111950 Steve Wozniak
+B08111953 Terry "Hulk" Hogan
+#B08121881 Cecil B. DeMille
+B08121912 Jane Wyatt
+B08121931 William Goldman
+B08121939 George Hamilton
+B08121971 Pete Sampras
+B08121980 Dominique Swain
+#B08131860 Annie Oakley
+B08131895 Bert Lahr
+B08131899 Alfred Hitchcock
+B08131919 George Shearing
+B08131926 Fidel Castro
+B08131929 Pat Harrington, Jr.
+B08131930 Don Ho
+B08131951 Dan Fogelberg
+B08141925 Russell Baker
+B08141941 David Crosby
+B08141945 Steve Martin
+B08141946 Susan St. James
+B08141947 Danielle Steel
+B08141950 Gary Larson
+B08141959 Earvin "Magic" Johnson
+B08141968 Halle Berry
+#B08151769 Napoleon Bonaparte
+B08151879 Ethel Barrymore
+#B08151912 Julia Child
+B08151919 Huntz Hall
+B08151924 Phyllis Schlafly
+B08151925 Mike Conners
+B08151925 Rose Marie
+B08151944 Linda Ellerbee
+B08151946 Jim Webb
+B08151972 Ben Affleck
+B08161913 Menachem Begin
+B08161920 Charles Bukowski
+B08161925 Fess Parker
+B08161930 Frank Gifford
+B08161930 Robert Culp
+B08161932 Eydie Gorme
+B08161946 Lesley Ann Warren
+B08161953 Kathie Lee Gifford
+B08161954 James Cameron
+B08161958 Angela Bassett
+
+B08161960 Timothy Hutton
+#B08171892 Mae West
+B08171920 Maureen O'Hara
+B08171926 Jiang Zemin
+B08171943 Robert De Niro
+B08171960 Sean Penn
+B08171970 Jim Courier
+B08181922 Shelley Winters
+B08181927 Rosalynn Carter
+B08181933 Roman Polanski
+B08181937 Robert Redford
+B08181943 Martin Mull
+B08181954 Patrick Swayze
+B08181969 Christian Slater
+B08181970 Malcolm-Jamal Warner
+#B08191871 Orville Wright
+B08191902 Ogden Nash
+B08191919 Malcolm Forbes
+B08191921 Gene Roddenberry
+B08191931 Willie Shoemaker
+B08191940 Jill St. John
+B08191946 Bill Clinton
+B08191948 Tipper Gore
+B08191951 John Deacon
+B08191956 Adam Arkin
+B08191963 John Stamos
+#B08201833 Benjamin Harrison
+B08201890 H.P. Lovecraft
+B08201921 Jacqueline Susann
+B08201942 Isaac Hayes
+B08201946 Connie Chung
+B08201948 Robert Plant
+B08211872 Aubrey Beardsley
+B08211904 Count Basie
+B08211923 Chris Schenkel
+B08211924 Jack Weston
+B08211932 Melvin Van Peebles
+B08211936 Wilt Chamberlain
+B08211938 Kenny Rogers
+B08221862 Claude Debussy
+B08221893 Dorothy Parker
+B08221904 Deng Xiaoping
+B08221917 John Lee Hooker
+B08221920 Ray Bradbury
+B08221934 Norman Schwarzkopf
+B08221939 Carl Yastrzemski
+B08221940 Valerie Harper
+B08221947 Cindy Williams
+B08221963 Tori Amos
+B08221967 Layne Staley
+B08221973 Howie Dorough
+B08231912 Gene Kelly
+B08231930 Vera Miles
+B08231932 Mark Russell
+B08231934 Barbara Eden
+B08231949 Rick Springfield
+B08231949 Shelley Long
+B08231970 River Phoenix
+B08241912 Durward Kirby
+B08241929 Yasser Arafat
+B08241958 Steve Guttenberg
+B08241960 Cal Ripken, Jr.
+B08241965 Marlee Matlin
+B08251905 Clara Bow
+B08251909 Ruby Keeler
+B08251916 Van Johnson
+B08251917 Mel Ferrer
+B08251918 Leonard Bernstein
+B08251923 Monty Hall
+B08251930 Sean Connery
+B08251933 Regis Philbin
+B08251946 Rollie Fingers
+B08251949 Gene Simmons
+B08251950 Willy DeVille
+B08251954 Elvis Costello
+B08251961 Billy Ray Cyrus
+B08251970 Claudia Schiffer
+B08261904 Christopher Isherwood
+B08261921 Ben Bradlee
+B08261935 Geraldine Ferraro
+B08261980 Macaulay Culkin
+B08271908 Lyndon B. Johnson
+B08271910 Mother Teresa
+B08271916 Martha Raye
+B08271942 Daryl Dragon
+B08271943 Tuesday Weld
+B08271947 Barbara Bach
+B08271952 Paul "Pee-wee Herman" Reubens
+B08281774 Elizabeth Ann Seton
+B08281899 Charles Boyer
+B08281925 Donald O'Connor
+B08281930 Ben Gazzara
+B08281943 David Soul
+B08281957 Daniel Stern
+B08281958 Scott Hamilton
+B08281965 Shania Twain
+B08281969 Jason Priestley
+B08281982 LeAnn Rimes
+B08291898 Preston Sturges
+B08291915 Ingrid Bergman
+B08291917 Isabel Sanford
+B08291920 Charlie "Bird" Parker
+B08291923 Richard Attenborough
+B08291928 Dick O'Neill
+B08291936 John McCain
+B08291938 Elliott Gould
+B08291939 William Friedkin
+B08291941 Robin Leach
+B08291958 Michael Jackson
+B08301797 Mary Wollstonecraft Shelley
+B08301898 Shirley Booth
+B08301908 Fred MacMurray
+B08301918 Ted Williams
+B08301943 Jean-Claude Killy
+B08301944 Frank "Tug" McGraw
+B08301947 Peggy Lipton
+B08301951 Timothy Bottoms
+B08301953 Robert Parrish
+B08301972 Cameron Diaz
+B08311870 Maria Montessori
+B08311903 Arthur Godfrey
+B08311908 William Saroyan
+B08311918 Alan Jay Lerner
+B08311924 Buddy Hackett
+B08311928 James Coburn
+B08311935 Eldridge Cleaver
+B08311945 Itzhak Perlman
+B08311945 Van Morrison
+B08311949 Richard Gere
+B08311970 Debbie Gibson
+B09011875 Edgar Rice Burroughs
+B09011922 Yvonne DeCarlo
+B09011933 Conway Twitty
+B09011935 Seiji Ozawa
+B09011939 Lily Tomlin
+B09011946 Barry Gibb
+B09011957 Gloria Estefan
+B09021948 Christa McAuliffe
+B09021951 Mark Harmon
+B09021952 Jimmy Connors
+B09021964 Keanu Reeves
+B09021966 Salma Hayek
+B09031913 Alan Ladd
+B09031914 Kitty Carlisle-Hart
+B09031943 Valerie Perrine
+B09031965 Charlie Sheen
+B09041908 Richard Wright
+B09041917 Henry Ford II
+B09041918 Paul Harvey
+B09041930 Mitzi Gaynor
+B09041968 Mike Piazza
+B09041970 Ione Skye
+B09041973 Jason David Frank
+B09051847 Jesse James
+B09051912 John Cage
+B09051929 Bob Newhart
+B09051934 Carol Lawrence
+B09051940 Raquel Welch
+B09051946 Freddie Mercury
+B09051950 Cathy Guisewaite
+B09051969 Dweezil Zappa
+B09061888 Joseph P. Kennedy
+B09061937 Jo Anne Worley
+B09061944 Swoosie Kurtz
+B09061947 Jane Curtin
+B09061973 Greg Rusedski
+B09071533 Elizabeth I, Queen of England
+B09071860 Grandma Moses
+B09071909 Elia Kazan
+B09071936 Buddy Holly
+B09071942 Richard Roundtree
+B09071951 Julie Kavner
+B09071954 Corbin Bernsen
+B09071978 Devon Sawa
+B09081900 Claude Pepper
+B09081922 Sid Caesar
+B09081925 Peter Sellers
+B09081932 Patsy Cline
+B09081981 Jonathan Taylor Thomas
+B09091925 Cliff Robertson
+B09091941 Otis Redding
+B09091946 Billy Preston
+B09091951 Michael Keaton
+B09091952 Angela Cartwright
+B09091960 Hugh Grant
+B09091966 Adam Sandler
+B09091971 Henry Thomas
+B09101929 Arnold Palmer
+B09101934 Charles Kuralt
+B09101934 Roger Maris
+B09101945 Jose Feliciano
+B09101953 Amy Irving
+B09101975 Ryan Phillippe
+B09111862 O. Henry
+B09111940 Brian DePalma
+B09111943 Lola Falana
+B09111962 Kristy McNichol
+B09111967 Harry Connick, Jr.
+B09121888 Maurice Chevalier
+B09121901 Ben Blue
+B09121913 Jesse Owens
+B09121940 Linda Gray
+B09121943 Maria Muldaur
+B09121944 Barry White
+B09121954 Peter Scolari
+B09121957 Rachel Ward
+B09131903 Claudette Colbert
+B09131916 Roald Dahl
+B09131925 Mel Torme
+B09131942 Bela Karolyi
+B09131944 Jacqueline Bisset
+B09131948 Nell Carter
+B09131977 Fiona Apple
+B09131980 Ben Savage
+B09141849 Ivan Pavlov
+B09141914 Clayton Moore
+B09141933 Harve Presnell
+B09141938 Nicol Williamson
+B09141944 Joey Heatherton
+B09141947 Sam Neill
+B09151857 William H. Taft
+B09151889 Robert Benchley
+B09151890 Agatha Christie
+B09151903 Roy Acuff
+B09151907 Fay Wray
+B09151922 Jackie Cooper
+B09151940 Merlin Olsen
+B09151946 Oliver Stone
+B09151946 Tommy Lee Jones
+B09151961 Dan Marino
+B09151984 Prince Harry
+B09161914 Allen Funt
+B09161924 Lauren Bacall
+B09161925 B.B. King
+B09161927 Peter Falk
+B09161949 Ed Begley, Jr.
+B09161955 Robin Yount
+B09161956 David Copperfield
+B09161956 Mickey Rourke
+B09161961 Jennifer Tilly
+B09161985 Madeline Zima
+B09171928 Roddy McDowall
+B09171931 Anne Bancroft
+B09171935 Ken Kesey
+B09171948 John Ritter
+B09171951 Cassandra "Elvira" Peterson
+B09181905 Eddie "Rochester" Anderson
+B09181905 Greta Garbo
+B09181920 Jack Warden
+B09181920 June Foray
+B09181939 Frankie Avalon
+B09181971 Jada Pinkett Smith
+B09191933 David McCallum
+B09191940 Paul Williams
+B09191943 "Mama" Cass Elliott
+B09191945 Randolph Mantooth
+B09191948 Jeremy Irons
+B09191949 Leslie "Twiggy" Lawson
+B09191950 Joan Lunden
+B09191967 Jim Abbott
+B09201878 Upton Sinclair
+B09201890 Ferdinand "Jelly Roll" Morton
+B09201928 Dr. Joyce Brothers
+B09201929 Anne Meara
+B09201934 Sophia Loren
+B09201957 Gary Cole
+B09211866 H.G. Wells
+B09211931 Larry Hagman
+B09211934 Leonard Cohen
+B09211935 Henry Gibson
+B09211947 Stephen King
+B09211950 Bill Murray
+B09211962 Rob Morrow
+B09211968 Ricki Lake
+B09211983 Joseph Mazzello
+B09221927 Tommy Lasorda
+B09221954 Shari Belafonte-Harper
+B09221956 Debby Boone
+B09221960 Joan Jett
+B09221961 Eric Stoltz
+B09221961 Scott Baio
+B09231920 Mickey Rooney
+B09231926 John Coltrane
+B09231930 Ray Charles
+B09231943 Julio Iglesias
+B09231945 Paul Petersen
+B09231947 Mary Kay Place
+B09231949 Bruce Springsteen
+B09231959 Jason Alexander
+B09241896 F. Scott Fitzgerald
+B09241921 Jim McKay
+B09241924 Sheila MacRae
+B09241931 Anthony Newley
+B09241936 Jim Henson
+B09241941 Linda McCartney
+B09241948 Phil Hartman
+B09251897 William Faulkner
+B09251931 Barbara Walters
+B09251932 Glenn Gould
+B09251932 Shel Silverstein, author for child and adults, artist, playwrite
+B09251936 Juliet Prowse
+B09251944 Michael Douglas
+B09251951 Mark Hamill
+B09251952 Christopher Reeve
+B09251961 Heather Locklear
+B09251965 Scottie Pippen
+B09251968 Will Smith
+B09261774 John Chapman
+B09261888 T.S. Eliot
+B09261898 George Gershwin
+B09261914 Jack LaLanne
+B09261926 Julie London
+B09261948 Olivia Newton-John
+B09261956 Linda Hamilton
+B09261972 Shawn Stockman
+B09261981 Serena Williams
+B09271920 William Conrad
+B09271922 Arthur Penn
+B09271926 Jayne Meadows
+B09271934 Greg Morris
+B09271934 Wilford Brimley
+B09271947 Cheryl Tiegs
+B09271947 Meat Loaf
+B09271949 Mike Schmidt
+B09271958 Shaun Cassidy
+B09271972 Gwyneth Paltrow
+B09281901 Ed Sullivan
+B09281909 Al Capp
+B09281924 Marcello Mastroianni
+B09281925 Arnold Stang
+B09281934 Brigitte Bardot
+B09281964 Janeane Garofalo
+B09281967 Mira Sorvino
+B09281967 Moon Unit Zappa
+B09291547 Miguel de Cervantes
+B09291907 Gene Autry
+B09291908 Greer Garson
+B09291913 Stanley Kramer
+B09291931 Anita Ekberg
+B09291935 Jerry Lee Lewis
+B09291942 Madeline Kahn
+B09291943 Lech Walesa
+B09291948 Bryant Gumbel
+B09301921 Deborah Kerr
+B09301924 Truman Capote
+B09301931 Angie Dickinson
+B09301935 Johnny Mathis
+B09301943 Marilyn McCoo
+B09301957 Fran Drescher
+B09301980 Martina Hingis
+B09301981 Dominique Moceanu
+B10011903 Vladimir Horowitz
+B10011920 Walter Matthau
+B10011921 James Whitmore
+B10011924 Jimmy Carter
+B10011927 Tom Bosley
+B10011928 George Peppard
+B10011932 Richard Harris
+B10011935 Julie Andrews
+B10011936 Stella Stevens
+B10011945 Rod Carew
+B10011950 Randy Quaid
+B10011963 Mark McGwire
+B10011968 Jay Underwood
+B10021869 Mahatma Gandhi
+B10021890 Groucho Marx
+B10021895 Bud Abbott
+B10021928 George "Spanky" McFarland
+B10021938 Rex Reed
+B10021945 Don McLean
+B10021948 Donna Karan
+B10021951 Sting
+B10031916 James Herriot
+B10031925 Gore Vidal
+B10031941 Chubby Checker
+B10031954 Stevie Ray Vaughan
+B10031972 Kevin Richardson
+B10031973 Neve Campbell
+B10041822 Rutherford B. Hayes
+B10041884 Damon Runyon
+B10041895 Buster Keaton
+B10041924 Charlton Heston
+B10041928 Alvin Toffler
+B10041941 Anne Rice
+B10041946 Susan Sarandon
+B10041976 Alicia Silverstone
+B10051829 Chester A. Arthur
+B10051902 Larry Fine
+B10051902 Ray Kroc
+B10051919 Donald Pleasence
+B10051923 Glynis Johns
+B10051951 Karen Allen
+B10051954 Bob Geldof
+B10051965 Mario Lemieux
+B10051972 Grant Hill
+B10051975 Kate Winslet
+B10061908 Carole Lombard
+B10061942 Britt Ekland
+B10061963 Elisabeth Shue
+B10061970 Amy Jo Johnson
+B10071885 Niels Bohr
+B10071905 Andy Devine
+B10071911 Vaughn Monroe
+B10071917 June Allyson
+B10071927 R.D. Laing
+B10071931 Bishop Desmond Tutu
+B10071951 John Cougar Mellencamp
+B10071955 Yo-Yo Ma
+B10081895 Juan Peron
+B10081936 Rona Barrett
+B10081939 Paul Hogan
+B10081941 Jesse Jackson
+B10081943 Chevy Chase
+B10081949 Sigourney Weaver
+B10081956 Stephanie Zimbalist
+B10081970 Matt Damon
+B10091890 Aimee Semple McPherson
+B10091899 Bruce Catton
+B10091908 Jacques Tati
+B10091940 John Lennon, singer (Beatles)
+B10091948 Jackson Browne
+B10091969 P.J. Harvey, singer
+B10091981 Zachery Ty Bryan
+B10101813 Giuseppe Verdi
+B10101900 Helen Hayes
+B10101917 Thelonious Monk
+B10101924 Edward D. Wood, Jr.
+B10101930 Harold Pinter
+B10101946 Ben Vereen
+B10101955 David Lee Roth
+B10101958 Tanya Tucker
+B10101969 Brett Favre
+B10111884 Eleanor Roosevelt
+B10111918 Jerome Robbins
+B10111925 Elmore Leonard
+B10111961 Steve Young
+B10111962 Joan Cusack
+B10111966 Luke Perry
+B10121932 Dick Gregory
+B10121935 Luciano Pavarotti
+B10121947 Chris Wallace
+B10121950 Susan Anton
+B10121970 Kirk Cameron
+B10131915 Cornel Wilde
+B10131921 Yves Montand
+B10131924 Nipsey Russell
+B10131925 Lenny Bruce
+B10131925 Margaret Thatcher
+B10131941 Paul Simon
+B10131947 Sammy Hagar
+B10131959 Marie Osmond
+B10131962 Jerry Rice
+B10131969 Nancy Kerrigan
+B10141644 William Penn
+B10141890 Dwight Eisenhower
+B10141894 e.e. cummings
+B10141896 Lillian Gish
+B10141910 John Wooden
+B10141927 Roger Moore
+B10141939 Ralph Lauren
+B10141952 Harry Anderson
+B10151908 John Kenneth Galbraith
+B10151917 Arthur Schlesinger, Jr.
+B10151920 Mario Puzo
+B10151924 Lee Iacocca
+B10151937 Linda Lavin
+B10151942 Penny Marshall
+B10151945 Jim Palmer
+B10151959 Sarah Ferguson
+B10161758 Noah Webster
+B10161854 Oscar Wilde
+B10161888 Eugene O'Neill
+B10161925 Angela Lansbury
+B10161946 Suzanne Somers
+B10161958 Tim Robbins
+B10161962 Flea
+B10161975 Kellie Martin
+B10171893 Spring Byington
+B10171905 Jean Arthur
+B10171915 Arthur Miller
+B10171918 Rita Hayworth
+B10171920 Montgomery Clift
+B10171921 Tom Poston
+B10171930 Jimmy Breslin
+B10171938 Evel Knievel
+B10171948 George Wendt
+B10171948 Margot Kidder
+B10171950 Howard Rollins
+B10171971 Chris Kirkpatrick
+B10181900 Lotte Lenya
+B10181921 Jesse Helms
+B10181923 Melina Mercouri
+B10181926 Chuck Berry
+B10181927 George C. Scott
+B10181939 Lee Harvey Oswald
+B10181939 Mike Ditka
+B10181947 Laura Nyro
+B10181951 Pam Dawber
+B10181956 Martina Navratilova
+B10181960 Jean-Claude Van Damme
+B10181961 Wynton Marsalis
+B10191922 Jack Anderson
+B10191931 John Le Carre
+B10191937 Peter Max
+B10191945 Divine
+B10191945 Jeannie C. Riley
+B10191945 John Lithgow
+B10191962 Evander Holyfield
+B10201854 Arthur Rimbaud
+B10201882 Bela Lugosi
+B10201925 Art Buchwald
+B10201931 Mickey Mantle
+B10201953 Tom Petty
+B10201972 Snoop Doggy Dogg
+B10211772 Samuel Taylor Coleridge
+B10211833 Alfred Nobel
+B10211917 Dizzy Gillespie
+B10211949 Benjamin Netanyahu
+B10211956 Carrie Fisher
+B10211976 Jeremy Miller
+B10221811 Franz Liszt
+B10221844 Sarah Bernhardt
+B10221903 Curly Howard
+B10221917 Joan Fontaine
+B10221920 Timothy Leary
+B10221938 Christopher Lloyd
+B10221939 Tony Roberts
+B10221942 Annette Funicello
+B10221943 Catherine Deneuve
+B10221952 Jeff Goldblum
+B10221985 Zac Hanson
+B10231893 Gummo Marx
+B10231925 Johnny Carson
+B10231940 Pelé
+B10231942 Michael Crichton
+B10231959 "Weird" Al Yankovic
+B10231965 Al Leiter
+B10241904 Moss Hart
+B10241936 David Nelson
+B10241939 F. Murray Abraham
+B10241947 Kevin Kline
+B10251838 Georges Bizet
+B10251881 Pablo Picasso
+B10251892 Leo G. Carroll
+B10251912 Minnie Pearl
+B10251924 Billy Barty
+B10251941 Helen Reddy
+B10251944 Jon Anderson
+B10251963 Tracy Nelson
+B10261911 Mahalia Jackson
+B10261914 Jackie Coogan
+B10261942 Bob Hoskins
+B10261947 Hillary Rodham Clinton
+B10261947 Jaclyn Smith
+B10261947 Pat Sajak
+B10261954 Lauren Tewes
+B10261962 Cary Elwes
+B10271858 Theodore Roosevelt
+B10271872 Emily Post
+B10271914 Dylan Thomas
+B10271920 Nanette Fabray
+B10271923 Roy Lichtenstein
+B10271924 Ruby Dee
+B10271939 John Cleese
+B10271946 Carrie Snodgress
+B10271951 Jayne Kennedy
+B10281914 Jonas Salk
+B10281927 Cleo Laine
+B10281936 Charlie Daniels
+B10281944 Dennis Franz
+B10281949 Bruce Jenner
+B10281955 Bill Gates
+B10281967 Julia Roberts
+B10291891 Fanny Brice
+B10291921 Bill Mauldin
+B10291947 Richard Dreyfuss
+B10291948 Kate Jackson
+B10291971 Winona Ryder
+B10301735 John Adams
+B10301885 Ezra Pound
+B10301893 Charles Atlas
+B10301896 Ruth Gordon
+B10301912 Gordon Parks
+B10301932 Louis Malle
+B10301937 Claude Lelouch
+B10301939 Grace Slick
+B10301945 Henry Winkler
+B10301951 Harry Hamlin
+B10301960 Diego Armando Maradona
+B10301967 Gavin Rossdale
+B10311632 Jan Vermeer
+B10311795 John Keats
+B10311860 Juliette Low
+B10311887 Chiang Kai-Shek
+B10311900 Ethel Waters
+B10311912 Dale Evans
+B10311922 Barbara Bel Geddes
+B10311931 Dan Rather
+B10311936 Michael Landon
+B10311942 David Ogden Stiers
+B10311950 Jane Pauley
+B10311950 John Candy
+B11011871 Stephen Crane
+B11011935 Gary Player
+B11011957 Lyle Lovett
+B11011960 Fernando Valenzuela
+B11011972 Jenny McCarthy
+B11021755 Marie Antoinette
+B11021795 James K. Polk
+B11021901 Paul Ford
+B11021913 Burt Lancaster
+B11021914 Ray Walston
+B11021938 Pat Buchanan
+B11021942 Stefanie Powers
+B11021961 k.d. lang
+B11031921 Charles Bronson
+B11031933 Ken Berry
+B11031933 Michael Dukakis
+B11031952 Roseanne
+B11031953 Dennis Miller
+B11031954 Adam Ant
+B11041879 Will Rogers
+B11041916 Walter Cronkite
+B11041918 Art Carney
+B11041919 Martin Balsam
+B11041937 Loretta Swit
+B11041950 Markie Post
+B11041954 Yanni
+B11041962 Ralph Macchio
+B11041970 Sean "Puff Daddy" Combs
+B11051905 Joel McCrea
+B11051911 Roy Rogers
+B11051913 Vivien Leigh
+B11051931 Ike Turner
+B11051940 Elke Sommer
+B11051941 Art Garfunkel
+B11051943 Sam Shepard
+B11051959 Bryan Adams
+B11051963 Tatum O'Neal
+B11061854 John Philip Sousa
+B11061861 James Naismith
+B11061887 Walter Perry Johnson
+B11061931 Mike Nichols
+B11061946 Sally Field
+B11061948 Glenn Frey
+B11061955 Maria Shriver
+B11071867 Madame Curie
+B11071903 Dean Jagger
+B11071918 Billy Graham
+B11071922 Al Hirt
+B11071926 Joan Sutherland
+B11071943 Joni Mitchell
+B11071959 Keith Lockhart
+B11071972 Jason and Jeremy London
+B11081900 Margaret Mitchell
+B11081927 Patti Page
+B11081931 Morley Safer
+B11081933 Esther Rolle
+B11081949 Bonnie Raitt
+B11081951 Mary Hart
+B11091913 Hedy Lamarr
+B11091918 Spiro Agnew
+B11091934 Carl Sagan
+B11091936 Mary Travers
+B11091941 Tom Fogerty
+B11091951 Lou Ferrigno
+B11101483 Martin Luther
+B11101889 Claude Rains
+B11101925 Richard Burton
+B11101935 Roy Scheider
+B11101944 Tim Rice
+B11101949 Donna Fargo
+B11101956 Sinbad
+B11101959 MacKenzie Phillips
+B11111885 George Patton
+B11111899 Pat O'Brien
+B11111904 Alger Hiss
+B11111922 Kurt Vonnegut, Jr.
+B11111925 Jonathan Winters
+B11111935 Bibi Andersson
+B11111962 Demi Moore
+B11111964 Calista Flockhart
+B11111970 Peta Wilson
+B11111974 Leonardo DiCaprio
+B11121840 Auguste Rodin
+B11121918 Jo Stafford
+B11121929 Grace Kelly
+B11121934 Charles Manson
+B11121943 Wallace Shawn
+B11121944 Al Michaels
+B11121945 Neil Young
+B11121961 Nadia Comaneci
+B11121966 David Schwimmer
+B11121968 Sammy Sosa
+B11121970 Tonya Harding
+B11131850 Robert Louis Stevenson
+B11131856 Louis Brandeis
+B11131915 Nathaniel Benchley
+B11131922 Oskar Werner
+B11131938 Jean Seberg
+B11131949 Whoopi Goldberg
+B11141765 Robert Fulton
+B11141840 Claude Monet
+B11141889 Jawaharlal Nehru
+B11141900 Aaron Copland
+B11141904 Dick Powell
+B11141909 Senator Joseph McCarthy
+B11141910 Rosemary DeCamp
+B11141921 Brian Keith
+B11141929 McLean Stevenson
+B11141948 Prince Charles
+B11151887 Georgia O'Keeffe
+B11151929 Ed Asner
+B11151932 Petula Clark
+B11151940 Sam Waterston
+B11151945 Frida Lyngstad
+B11161908 Burgess Meredith
+B11161916 Daws Butler
+B11161964 Dwight Gooden
+B11161967 Lisa Bonet
+B11171901 Lee Strasberg
+B11171925 Rock Hudson
+B11171938 Gordon Lightfoot
+B11171942 Martin Scorsese
+B11171943 Lauren Hutton
+B11171944 Danny DeVito
+B11171944 Lorne Michaels
+B11171944 Tom Seaver
+B11171960 RuPaul
+B11171980 Isaac Hanson
+B11181836 William Gilbert
+B11181899 Eugene Ormandy
+B11181908 Imogene Coca
+B11181923 Alan Shepard, Jr.
+B11181939 Brenda Vaccaro
+B11181942 Linda Evans
+B11191905 Tommy Dorsey
+B11191917 Indira Gandhi
+B11191933 Larry King
+B11191936 Dick Cavett
+B11191938 Ted Turner
+B11191942 Calvin Klein
+B11191961 Meg Ryan
+B11191962 Jodie Foster
+B11191977 Kerri Strug
+B11191997 McCaughey septuplets
+B11201908 Alistair Cooke
+B11201925 Robert F. Kennedy
+B11201926 Kaye Ballard
+B11201927 Estelle Parsons
+B11201932 Richard Dawson
+B11201939 Dick Smothers
+B11201943 Veronica Hamel
+B11201956 Bo Derek
+B11211694 Jean Francois Voltaire
+B11211785 William Beaumont
+B11211898 Rene Magritte
+B11211920 Stan Musial
+B11211927 Joseph Campanella
+B11211938 Marlo Thomas
+B11211941 Juliet Mills
+B11211944 Harold Ramis
+B11211945 Goldie Hawn
+B11211965 Björk Guðmundsdóttir
+B11211966 Troy Aikman
+B11221899 Hoagy Carmichael
+B11221913 Benjamin Britten
+B11221921 Rodney Dangerfield
+B11221932 Robert Vaughn
+B11221943 Billie Jean King
+B11221958 Jamie Lee Curtis
+B11221961 Mariel Hemingway
+B11221964 Stephen Geoffreys
+B11231804 Franklin Pierce
+B11231859 Billy the Kid
+B11231887 Boris Karloff
+B11231888 Harpo Marx
+B11241784 Zachary Taylor
+B11241853 Bat Masterson
+B11241868 Scott Joplin
+B11241888 Dale Carnegie
+B11241925 William F. Buckley, Jr.
+B11251846 Carry Nation
+B11251914 Joe DiMaggio
+B11251920 Ricardo Montalban
+B11251947 John Larroquette
+B11251960 Amy Grant
+B11251960 John F. Kennedy, Jr.
+B11251971 Christina Applegate
+B11261912 Eric Severeid
+B11261912 Eugene Ionesco
+B11261922 Charles Schulz
+B11261933 Robert Goulet
+B11261938 Rich Little
+B11261938 Tina Turner
+B11271909 James Agee
+B11271917 "Buffalo" Bob Smith
+B11271941 Eddie Rabbit
+B11271957 Caroline Kennedy
+B11271964 Robin Givens
+B11271976 Jaleel White, Urkel
+B11281894 Brooks Atkinson
+B11281929 Berry Gordy, Jr.
+B11281943 Randy Newman
+B11281946 Joe Dante
+B11281949 Alexander Godunov
+B11281949 Paul Shaffer
+B11281950 Ed Harris
+B11281959 Judd Nelson
+B11281965 Jon Stewart
+B11281967 Anna Nicole Smith
+B11291832 Louisa May Alcott
+B11291895 Busby Berkeley
+B11291898 C.S. Lewis
+B11291908 Adam Clayton Powell, Jr.
+B11291918 Madeline L'Engle
+B11291927 Vin Scully
+B11291932 Diane Ladd
+B11291933 John Mayall
+B11291939 Peter Bergman
+B11291940 Chuck Mangione
+B11291949 Garry Shandling
+B11291955 Howie Mandel
+B11291956 Jeff Fahey
+B11291960 Cathy Moriarty
+B11301667 Jonathan Swift
+B11301835 Mark Twain
+B11301874 Winston Churchill
+B11301923 Efrem Zimbalist, Jr.
+B11301926 Richard Crenna
+B11301929 Dick Clark
+B11301930 G. Gordon Liddy
+B11301936 Abbie Hoffman
+B11301937 Robert Guillaume
+B11301947 David Mamet
+B11301952 Mandy Patinkin
+B11301953 Shuggie Otis
+B11301955 Billy Idol
+B11301962 Bo Jackson
+B11301965 Ben Stiller
+B12011897 Cyril Ritchard
+B12011913 Mary Martin
+B12011935 Woody Allen
+B12011936 Lou Rawls
+B12011939 Lee Trevino
+B12011940 Richard Pryor
+B12011945 Bette Midler
+B12011970 Julie Condra
+B12021859 George Seurat
+B12021923 Maria Callas
+B12021948 Cathy Lee Crosby
+B12021962 Tracy Austin
+B12021973 Monica Seles
+B12031857 Joseph Conrad
+B12031930 Andy Williams
+B12031930 Jean-Luc Godard
+B12031948 Ozzy Osbourne
+B12031980 Anna Chlumsky
+B12041866 Wassily Kandinsky
+B12041892 Francisco Franco
+B12041944 Dennis Wilson
+B12041949 Jeff Bridges
+B12041963 Jozef Sabovcik
+B12041964 Marisa Tomei
+B12041973 Tyra Banks
+B12051782 Martin Van Buren
+B12051839 George Armstrong Custer
+B12051901 Walt Disney
+B12051906 Otto Preminger
+B12051932 Little Richard
+B12051947 Jim Messina
+B12051951 Morgan Brittany
+B12061870 William S. Hart
+B12061886 Joyce Kilmer
+B12061887 Lynn Fontanne
+B12061896 Ira Gershwin
+B12061906 Agnes Moorehead
+B12061920 Dave Brubeck
+B12061924 Wally Cox
+B12061936 David Ossman
+B12061953 Tom Hulce
+B12061955 Steven Wright
+B12061956 Peter Buck
+B12071915 Eli Wallach, Jr.
+B12071923 Ted Knight
+B12071932 Ellen Burstyn
+B12071942 Harry Chapin
+B12071947 Johnny Bench
+B12071956 Larry Bird
+B12071958 Edd Hall
+B12071987 Aaron Carter
+B12081886 Diego Rivera
+B12081894 James Thurber
+B12081911 Lee J. Cobb
+B12081925 Sammy Davis, Jr.
+B12081930 Maximillian Schell
+B12081933 Flip Wilson
+B12081936 David Carradine
+B12081939 James Galway
+B12081943 Jim Morrison
+B12081947 Gregg Allman
+B12081953 Kim Basinger
+B12081964 Teri Hatcher
+B12081966 Sinead O'Connor
+B12091608 John Milton
+B12091898 Emmett Kelly
+B12091902 Margaret Hamilton
+B12091909 Douglas Fairbanks, Jr.
+B12091916 Kirk Douglas
+B12091922 Redd Foxx
+B12091925 Dina Merrill
+B12091928 Dick Van Patten
+B12091930 Buck Henry
+B12091941 Beau Bridges
+B12091942 Dick Butkus
+B12091957 Donny Osmond
+B12091969 Jakob Dylan
+B12091970 David Kersh
+B12101830 Emily Dickinson
+B12101911 Chet Huntley
+B12101914 Dorothy Lamour
+B12101928 Dan Blocker
+B12101952 Susan Dey
+B12101960 Kenneth Branagh
+B12111882 Fiorello La Guardia
+B12111913 Carlo Ponti
+B12111931 Rita Moreno
+B12111942 Donna Mills
+B12111944 Brenda Lee
+B12111949 Teri Garr
+B12111954 Jermaine Jackson
+B12111979 Rider Strong
+B12121893 Edward G. Robinson
+B12121915 Frank Sinatra
+B12121918 Joe Williams
+B12121923 Bob Barker
+B12121938 Connie Francis
+B12121941 Dionne Warwick
+B12121952 Cathy Rigby
+B12121957 Sheila E.
+B12121970 Mädchen Amick
+B12121975 Mayim Bialik
+B12131913 Archie Moore
+B12131925 Dick Van Dyke
+B12131927 Christopher Plummer
+B12131941 John Davidson
+B12131948 Ted Nugent
+B12141503 Nostradamus
+B12141911 Spike Jones
+B12141914 Morey Amsterdam
+B12141919 Shirley Jackson
+B12141932 Charlie Rich
+B12141935 Lee Remick
+B12141946 Michael Ovitz
+B12141946 Patty Duke
+B12151892 J. Paul Getty
+B12151918 Jeff Chandler
+B12151933 Tim Conway
+B12151949 Don Johnson
+B12161770 Ludwig Van Beethoven
+B12161775 Jane Austen
+B12161899 Noel Coward
+B12161901 Margaret Mead
+B12161917 Arthur C. Clarke
+B12161939 Liv Ullmann
+B12161941 Leslie Stahl
+B12161943 Steven Bochco
+B12161946 Benny Andersson
+B12161949 Billy Gibbons
+B12161962 William "Refrigerator" Perry
+B12161971 Michael McCary
+B12171894 Arthur Fiedler
+B12171929 William Safire
+B12171930 Bob Guccione
+B12171958 Mike Mills
+B12181886 Ty Cobb
+B12181916 Betty Grable
+B12181917 Ossie Davis
+B12181925 Roger Smith
+B12181943 Keith Richards
+B12181947 Steven Spielberg
+B12181950 Leonard Maltin
+B12181963 Brad Pitt
+B12181978 Katie Holmes
+B12191902 Ralph Richardson
+B12191920 David Susskind
+B12191933 Cicely Tyson
+B12191934 Al Kaline
+B12191944 Tim Reid
+B12191946 Robert Urich
+B12191960 Daryl Hannah
+B12191963 Jennifer Beals
+B12191972 Alyssa Milano
+B12201868 Harvey Firestone
+B12201898 Irene Dunne
+B12201922 George Roy Hill
+B12201946 Uri Geller
+B12211879 Joseph Stalin
+B12211922 Paul Winchell
+B12211935 Phil Donahue
+B12211937 Jane Fonda
+B12211940 Frank Zappa
+B12211948 Samuel L. Jackson
+B12211954 Chris Evert
+B12211959 Florence Griffith Joyner
+B12211966 Kiefer Sutherland
+B12221912 Lady Bird Johnson
+B12221917 Gene Rayburn
+B12221922 Barbara Billingsley
+B12221945 Diane Sawyer
+B12221948 Steve Garvey
+B12221949 Maurice Gibb
+B12221949 Robin Gibb
+B12231862 Connie Mack
+B12231918 Jose Greco
+B12231943 Harry Shearer
+B12231948 Susan Lucci
+B12231971 Corey Haim
+B12241809 Kit Carson
+B12241905 Howard Hughes
+B12241922 Ava Garder
+B12251642 Sir Isaac Newton
+B12251887 Conrad Hilton
+B12251893 Robert Ripley
+B12251899 Humphrey Bogart
+B12251907 Cab Calloway
+B12251918 Anwar Sadat
+B12251924 Rod Serling
+B12251946 Jimmy Buffett
+B12251948 Barbara Mandrell
+B12251949 Sissy Spacek
+B12251954 Annie Lennox
+B12251958 Rickey Henderson
+B12261791 Charles Babbage
+B12261891 Henry Miller
+B12261893 Mao Tse-tung
+B12261914 Richard Widmark
+B12261921 Steve Allen
+B12261927 Alan King
+B12261947 Carlton Fisk
+B12271822 Louis Pasteur
+B12271879 Sydney Greenstreet
+B12271901 Marlene Dietrich
+B12271906 Oscar Levant
+B12271939 John Amos
+B12271948 Gerard Depardieu
+B12281856 Woodrow Wilson
+B12281905 Cliff Arquette
+B12281905 Earl "Fatha" Hines
+B12281908 Lew Ayres
+B12281911 Sam Levenson
+B12281924 Johnny Otis
+B12281934 Maggie Smith
+B12281946 Edgar Winter
+B12281954 Denzel Washington
+B12291800 Charles Goodyear
+B12291808 Andrew Johnson
+B12291936 Mary Tyler Moore
+B12291938 Jon Voight
+B12291946 Marianne Faithfull
+B12291947 Ted Danson
+B12291954 Ed Autry
+B12291972 Jude Law
+B12301865 Rudyard Kipling
+B12301914 Bert Parks
+B12301928 Bo Diddley
+B12301934 Russ Tamblyn
+B12301935 Sandy Koufax
+B12301937 Noel Paul Stookey
+B12301942 Michael Nesmith
+B12301945 Davy Jones
+B12301959 Tracey Ullman
+B12301975 Tiger Woods
+B12311869 Henri Matisse
+B12311930 Odetta
+B12311937 Anthony Hopkins
+B12311941 Sarah Miles
+B12311943 Ben Kingsley
+B12311943 John Denver
+B12311945 Barbara Carrera
+B12311946 Patti Smith
+B12311948 Donna Summer
+B12311959 Val Kilmer
+
+*mmddyyyy Deaths
+*-------------------------------------------------------------------------
+S01071943 Nikola Tesla dies.
+S01291944 William Allen White dies.
+S03091985 Edward Andrews dies.
+S03131974 Howard Saint John dies.
+S03151937 H. P. Lovecraft dies.
+S03311993 Brandon Lee fatally shot on the set of "The Crow."
+D04081994 Kurt Cobain is found in his Seattle home by an electriction.
+S04201914 Company guards massacre 21 striking miners at Ludlow, Colorado.
+D04231616 Miguel de Cervantes Saavedra dies.
+S05091999 Shel Silverstein dies at age 66.
+S10071849 Edgar Allan Poe dies.
+S11011972 Ezra Pound dies.
+S11221963 Aldous Huxley dies.
+S12011947 Aleister Crowley dies.
+S12081980 John Lennon dies.
+
+
+*mmddyyyy General events
+*-------------------------------------------------------------------------
+S03202003 US begins war of Enduring Freedom against Iraq.
+S04191993 Branch Davidian Compound raided
+S0422     TV-Turnoff Week
+S0423     TV-Turnoff Week
+S0424     TV-Turnoff Week
+S0425     TV-Turnoff Week
+S0426     TV-Turnoff Week
+S0427     TV-Turnoff Week
+S0428     TV-Turnoff Week
+S06021997 Timothy McVey found guilty on 11 charges involving The Oklahoma Bombing
+S06301997 Great Brittian hands Hong Kong over to China after 156
+S06301997Cyears of Democracy
+S09051977 Voyager 1 launched, first to explore outer solar system.
+S09051991 Twin Peaks begins filmimg
+S09112001 Al-queda Terrorists destroy World Trade Center and damage Pentagon.
+S1009    1Canada :  Thanksgiving Day
+S1009    3Florida :  Farmers' Day (1915)
+S1009    3Hawaii :  Discoverer's Day
+S1009    3US :  Columbus Day (1492)
+S1009    3Virgin Is & Puerto Rico :  Friendship Day
+S1009     Ecuador :  Guayaquil's Independence Day (1820)
+S1009     Hong Kong :  Confucius' Birthday
+S1009     Khmer Republic :  Republic Day (1970)
+S1009     Minnesota :  Leif Ericsson Day (c 1000)
+S1009     Peru : Day of National Dignity (1968)
+S1009     South Korea :  Hangual Day/Korean Alphabet Day (1446)
+S1009     Tanganyika :  independence day (1961)
+S1009     Uganda :  independence day (1962)
+S1009     Western Samoa :  White Sunday (2nd Sunday)
+S1015     National Grouch Day
+S1121     World Hello Day; say hello to someone
+S11211973 First World Hello Day in resposne to Egypt-Isreal conflict

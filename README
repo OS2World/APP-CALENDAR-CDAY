@@ -1,0 +1,49 @@
+Cheshiresoft CDAY, Alamanac Calendar
+Version 1.20 pre 2
+
+
+
+LICENSE
+
+   See COPYING. 
+
+   
+INSTALLATION
+
+   Copy CDAY.EXE to one of the following directories. Choose one
+   (or pick your own).  These are recommendations.
+      
+      C:\PROGRAM FILES\CDAY\
+      C:\CDAY\
+      
+      
+      
+LIBRARIES
+
+   You probably will want to download and install libraries.  Libraries
+   are files which describe birthdays and general events (i.e., what happened
+   today in history).
+   
+      http://cday.sourceforge.net
+   
+     
+USE
+ 
+   For command line arguments, type
+   
+      CDAY.EXE -?
+      
+   Example:
+   
+      CDAY.EXE lib\cday.jun
+      CDAY.EXE -c lib\*
+     
+     
+MORE 
+
+   For more information (documentation, help, updates, etc.), see the
+   web site:
+      http://cday.sourceforge.net
+
+      
+      

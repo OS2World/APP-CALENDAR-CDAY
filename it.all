@@ -1,0 +1,98 @@
+* CDAY data
+* Copyright (C) 2003 by Andrew Ziem.  All rights reserved.
+* http://cday.sourceforge.net
+*
+*
+* LICENSE AND DISTRIBUTION
+* See the enclosed file, COPYING, for the GNU Free Documentation License.
+*
+*
+* MONTHS
+*     01 Jan      04 Apr    07 July      10 Oct
+*     02 Feb      05 May    08 August    11 Nov
+*     03 Mar      06 Jun    09 Sept      12 Dec
+
+
+
+*mmddyyyy Birthdays
+*-------- ------------------------------------------------------------
+B03161953 Richard Stallman, founder of GNU project
+B09091941 Dennis Ritchie
+B02041943 Ken Thompson
+B12281969 Linus Torvalds, father of Linux kernel
+
+*mmddyyyy Misc Events
+*-------- ------------------------------------------------------------
+S01011979 Intel introduces 8088 discount processor.
+S01081978 Intel releases 16-bit 8086 processor.
+S01112001 AOL and Time Warner complete merger.
+S01161988 Intel 80836SX uses 16-bit bus.
+S02011982 Intel introduces 80286 processor with protected memory.
+S03191992 NASDAQ begins trading AOL shares for $11.50.
+S04031973 Dr. Martin Cooper places first cellular phone call.
+S05131999 SETI@home launches search for extraterrestrials through distributed computing.
+S05221990 Windows 3.0 released, supporting 80386 processor.
+S10171985 Intel 80386DX addresses 4 gigabytes of memory.
+
+
+
+*mmddyyyy DEC, VAX/VMS
+*-------- ------------------------------------------------------------
+S10251977 VAX released: first commercially available 32-bit machine.
+
+*mmddyyyy Sun, Solaris, Java
+*-------- ------------------------------------------------------------
+S05231995 Sun Microsystems announces Java, the machine-independent OOP language.
+S05222002 Sun Microsystems releases Solaris 9.
+
+
+*mmddyyyy GNU, Linux, Free/Open/Net-BSD, Open Source
+*-------- ------------------------------------------------------------
+#S01201999 FreeBSD branches to 4.0-CURRENT.
+S01042001 Linux Kernel 2.4 released.
+S01251999 Linux kernel 2.2 released.
+S02012001 Brian Paul receives 2000 Award for the Advancement of Free Software for Mesa 3D graphics library.
+S02011992 Linux kernel adopts the GNU General Public License.
+S02151999 FreeBSD 3.1 released.
+S02162002 Guido van Rossum receives 2001 Award for the Advancement of Free Software for Python project.
+S03132000 FreeBSD 4.0 released.
+S03141994 Linux kernel 1.0 released.
+S03252003 Mandrake Linux v9.1 released.
+S05151999 FreeBSD 3.2 released.
+S05252000 Linux v2.4-test1 released.
+S06091996 Linux kernel 2.0 released.
+S06121997 Hurd kernel version 0.2 released.
+S09161999 FreeBSD 3.3 released.
+S09271983 Richard Stallman announces GNU Project on net.unix-wizards newsgroup
+S08251991 Linux Torvolds posts to comp.os.minux that his experimental kernel bash and gcc.
+S10051991 Linus Torvolds releases Linux 0.02, a "free version of minix-lookalike."
+S10161998 FreeBSD 3.0 released.
+S12151999 Miguel de Icaza receives 1999 Free Software Award for work with GNOME.
+S
+
+*mmddyyyy IBM
+*-------- ------------------------------------------------------------
+S04031986 IBM unveils PC Convertible, the first laptop computer.
+S08121981 IBM introduces personal computer with MS-DOS 1.0.
+
+
+*mmddyyyy Microsoft
+*-------- ------------------------------------------------------------
+S02052001 Microsoft Corp. announces Whistler will be called Windows XP.
+S02172000 Microsoft Corp. releases Windows 2000.
+S03181992 Microsoft Corp. releases Windows v3.1.
+S08241995 Microsoft Corp. releases Windows 95 (and again in 1996, and again in 1997).
+S06251998 Microsoft Corp. releases Windows 98 (and again in 1999, and again in 2000).
+S06101999 Microsoft Corp. releases Windows 98 Second Edition.
+
+*mmddyyyy Apple
+*-------- ------------------------------------------------------------
+S01221984 Superbowl commercial introduces Macintosh computer.
+B04011976 Apple Computer
+
+*mmddyyyy UNIX
+*-------- ------------------------------------------------------------
+S11031971 UNIX version 1 written in B.
+S12061972 UNIX version 2 written in C.
+S01151973 UNIX version 3.
+S08311973 UNIX kernel rewritten in C.
